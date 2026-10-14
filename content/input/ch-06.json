@@ -1,0 +1,384 @@
+{
+ "chapter": 6,
+ "name": "Dhyān Yog",
+ "title": "Path of Meditation",
+ "summary": "The sixth chapter of the Bhagavad Gita is \"Dhyana Yoga\". In this chapter, Krishna reveals the \"Yoga of Meditation\" and how to practise this Yoga. He discusses the role of action in preparing for Meditation, how performing duties in devotion purifies one's mind and heightens one's spiritual consciousness. He explains in detail the obstacles that one faces when trying to control their mind and the exact methods by which one can conquer their mind. He reveals how one can focus their mind on Paramatma and unite with the God.",
+ "lessons": [
+  {
+   "id": "6-1",
+   "refs": [
+    "6.1",
+    "6.2",
+    "6.3",
+    "6.4",
+    "6.5"
+   ]
+  },
+  {
+   "id": "6-2",
+   "refs": [
+    "6.6",
+    "6.7",
+    "6.8",
+    "6.9",
+    "6.10"
+   ]
+  },
+  {
+   "id": "6-3",
+   "refs": [
+    "6.11",
+    "6.12",
+    "6.13",
+    "6.14",
+    "6.15",
+    "6.16"
+   ]
+  },
+  {
+   "id": "6-4",
+   "refs": [
+    "6.17",
+    "6.18",
+    "6.19",
+    "6.20",
+    "6.21"
+   ]
+  },
+  {
+   "id": "6-5",
+   "refs": [
+    "6.22",
+    "6.23",
+    "6.24",
+    "6.25",
+    "6.26"
+   ]
+  },
+  {
+   "id": "6-6",
+   "refs": [
+    "6.27",
+    "6.28",
+    "6.29",
+    "6.30",
+    "6.31"
+   ]
+  },
+  {
+   "id": "6-7",
+   "refs": [
+    "6.32",
+    "6.33",
+    "6.34",
+    "6.35",
+    "6.36",
+    "6.37"
+   ]
+  },
+  {
+   "id": "6-8",
+   "refs": [
+    "6.38",
+    "6.39",
+    "6.40",
+    "6.41",
+    "6.42"
+   ]
+  },
+  {
+   "id": "6-9",
+   "refs": [
+    "6.43",
+    "6.44",
+    "6.45",
+    "6.46",
+    "6.47"
+   ]
+  }
+ ],
+ "verses": [
+  {
+   "ref": "6.1",
+   "translation": "The Blessed Lord said: He who performs his bounden duty without depending on the fruits of his actions—he is a sannyasi and a yogi, not he who is without fire and without action.",
+   "translation2": "Lord Shri Krishna said: He who acts out of duty, without considering the consequences, is truly spiritual and a true ascetic; not he who merely observes rituals or shuns all action.",
+   "words": "śhrī-bhagavān uvācha=the Supreme Lord said; anāśhritaḥ=not desiring; karma-phalam=results of actions; kāryam=obligatory; karma=work; karoti=perform; yaḥ=one who; saḥ=that person; sanyāsī=in the renounced order; cha=and; yogī=yogi; cha=and; na=not; niḥ=without; agniḥ=fire; na=not; cha=also; akriyaḥ=without activity"
+  },
+  {
+   "ref": "6.2",
+   "translation": "Do you, O Arjuna, know that Yoga is what they call renunciation; no one indeed becomes a Yogi who has not renounced their thoughts.",
+   "translation2": "O Arjuna, renunciation is indeed what is known as right action. No one can become spiritually enlightened who has not renounced all desires.",
+   "words": "yam=what; sanyāsam=renunciation; iti=thus; prāhuḥ=they say; yogam=yog; tam=that; viddhi=know; pāṇḍava=Arjun, the son of Pandu; na=not; hi=certainly; asannyasta=without giving up; saṅkalpaḥ=desire; yogī=a yogi; bhavati=becomes; kaśhchana=anyone"
+  },
+  {
+   "ref": "6.3",
+   "translation": "For a sage who wishes to attain to Yoga, action is said to be the means; for the same sage who has attained Yoga, inaction is said to be the means.",
+   "translation2": "For the sage who seeks the heights of spiritual meditation, practice is the only method, and when they have attained it, they must maintain themselves there through continual self-control.",
+   "words": "ārurukṣhoḥ=a beginner; muneḥ=of a sage; yogam=Yog; karma=working without attachment; kāraṇam=the cause; uchyate=is said; yoga ārūḍhasya=of those who are elevated in Yog; tasya=their; eva=certainly; śhamaḥ=meditation; kāraṇam=the cause; uchyate=is said"
+  },
+  {
+   "ref": "6.4",
+   "translation": "When a person is not attached to the sense-objects or to actions, having renounced all thoughts, then they are said to have attained Yoga.",
+   "translation2": "When a man renounces even the thought of initiating action, and is not interested in sense objects or any results that may flow from his acts, then he truly understands spirituality.",
+   "words": "yadā=when; hi=certainly; na=not; indriya-artheṣhu=for sense-objects; na=not; karmasu=to actions; anuṣhajjate=is attachment; sarva-saṅkalpa=all desires for the fruits of actions; sanyāsī=renouncer; yoga-ārūḍhaḥ=elevated in the science of Yog; tadā=at that time; uchyate=is said"
+  },
+  {
+   "ref": "6.5",
+   "translation": "One should raise oneself by one's own self alone; let not one lower oneself; for the self alone is one's own friend, and the self alone is one's own enemy.",
+   "translation2": "Let him seek liberation with the help of his Highest Self, and never disgrace his own Self. For that Self is his only friend; yet it can also be his enemy.",
+   "words": "uddharet=elevate; ātmanā=through the mind; ātmānam=the self; na=not; ātmānam=the self; avasādayet=degrade; ātmā=the mind; eva=certainly; hi=indeed; ātmanaḥ=of the self; bandhuḥ=friend; ātmā=the mind; eva=certainly; ripuḥ=enemy; ātmanaḥ=of the self"
+  },
+  {
+   "ref": "6.6",
+   "translation": "The Self is the friend of the self of him by whom the Self has been conquered; but to the unconquered self, this Self stands in the position of an enemy, like an external foe.",
+   "translation2": "To one who has conquered their lower nature with its help, the Self is a friend; but to one who has not done so, it is an enemy.",
+   "words": "bandhuḥ=friend; ātmā=the mind; ātmanaḥ=for the person; tasya=of him; yena=by whom; ātmā=the mind; eva=certainly; ātmanā=for the person; jitaḥ=conquered; anātmanaḥ=of those with unconquered mind; tu=but; śhatrutve=for an enemy; varteta=remains; ātmā=the mind; eva=as; śhatru-vat=like an enemy"
+  },
+  {
+   "ref": "6.7",
+   "translation": "The Supreme Self of him who is self-controlled and peaceful remains balanced in cold and heat, pleasure and pain, as well as in honor and dishonor.",
+   "translation2": "The Self of one who is self-controlled and has attained peace is equally unmoved by heat or cold, pleasure or pain, honor or dishonor.",
+   "words": "jita-ātmanaḥ=one who has conquered one’s mind; praśhāntasya=of the peaceful; parama-ātmā=God; samāhitaḥ=steadfast; śhīta=in cold; uṣhṇa=heat; sukha=happiness; duḥkheṣhu=and distress; tathā=also; māna=in honor; apamānayoḥ=and dishonor"
+  },
+  {
+   "ref": "6.8",
+   "translation": "The Yogi who is satisfied with the knowledge and wisdom of the Self, who has conquered the senses, and to whom a clod of earth, a piece of stone, and gold are all the same, is said to have attained Nirvikalpa Samadhi.",
+   "translation2": "He who desires nothing but wisdom and spiritual insight, who has conquered his senses, and who looks upon a lump of earth, a stone, and fine gold with the same eye, is a real saint.",
+   "words": "jñāna=knowledge; vijñāna=realized knowledge, wisdom from within; tṛipta ātmā=one fully satisfied; kūṭa-sthaḥ=undisturbed; vijita-indriyaḥ=one who has conquered the senses; yuktaḥ=one who is in constant communion with the Supreme; iti=thus; uchyate=is said; yogī=a yogi; sama=looks equally; loṣhṭra=pebbles; aśhma=stone; kāñchanaḥ=gold"
+  },
+  {
+   "ref": "6.9",
+   "translation": "He who is of the same mind towards the good-hearted, friends, enemies, the indifferent, the neutral, the hateful, the relatives, the righteous, and the unrighteous, excels.",
+   "translation2": "He looks impartially on all—lovers, friends, or foes; indifferent, hostile, alien, or relative; virtuous or sinful.",
+   "words": "su-hṛit=toward the well-wishers; mitra=friends; ari=enemies; udāsīna=neutral persons; madhya-stha=mediators; dveṣhya=the envious; bandhuṣhu=relatives; sādhuṣhu=pious; api=as well as; cha=and; pāpeṣhu=the sinners; sama-buddhiḥ=of impartial intellect; viśhiṣhyate=is distinguished"
+  },
+  {
+   "ref": "6.10",
+   "translation": "Let the yogi constantly strive to keep the mind steady, remaining in solitude, alone, with the body and mind controlled, and free from hope and greed.",
+   "translation2": "Let the student of spirituality try unceasingly to concentrate his mind; let him live in seclusion, absolutely alone, with his mind and personality controlled, free from desire and without possessions.",
+   "words": "yogī=a yogi; yuñjīta=should remain engaged in meditation; satatam=constantly; ātmānam=self; rahasi=in seclusion; sthitaḥ=remaining; ekākī=alone; yata-chitta-ātmā=with a controlled mind and body; nirāśhīḥ=free from desires; aparigrahaḥ=free from desires for possessions for enjoyment"
+  },
+  {
+   "ref": "6.11",
+   "translation": "In a clean spot, having established a firm seat of his own, neither too high nor too low, made of cloth, skin, and kusha grass layered one over the other.",
+   "translation2": "Having chosen a holy place, let him sit in a firm posture on a seat that is neither too high nor too low, and cover it with a grass mat, a deer skin, and a cloth.",
+   "words": "śhuchau=in a clean; deśhe=place; pratiṣhṭhāpya=having established; sthiram=steadfast; āsanam=seat; ātmanaḥ=his own; na=not; ati=too; uchchhritam=high; na=not; ati=too; nīcham=low; chaila=cloth; ajina=a deerskin; kuśha=kuśh grass; uttaram=one over the other"
+  },
+  {
+   "ref": "6.12",
+   "translation": "There, having made the mind one-pointed, with the actions of the mind and senses controlled, let him, seated on the seat, practice Yoga for the purification of the self.",
+   "translation2": "Seated thus, with his mind concentrated, his functions controlled, and his senses governed, let him practice meditation for the purification of his lower nature.",
+   "words": "tatra=there; eka-agram=one-pointed; manaḥ=mind; kṛitvā=having made; yata-chitta=controlling the mind; indriya=senses; kriyaḥ=activities; upaviśhya=being seated; āsane=on the seat; yuñjyāt yogam=should strive to practice yog; ātma viśhuddhaye=for purification of the mind"
+  },
+  {
+   "ref": "6.13",
+   "translation": "Let him firmly hold his body, head, and neck erect and still, gazing at the tip of his nose without looking around.",
+   "translation2": "Let him hold his body, head, and neck erect, motionless and steady; let him look fixedly at the tip of his nose, turning neither to the right nor to the left.",
+   "words": "samam=straight; kāya=body; śhiraḥ=head; grīvam=neck; dhārayan=holding; achalam=unmoving; sthiraḥ=still; samprekṣhya=gazing; nāsika-agram=at the tip of the nose; svam=own; diśhaḥ=directions; cha=and; anavalokayan=not looking"
+  },
+  {
+   "ref": "6.14",
+   "translation": "Serene-minded, fearless, firm in the vow of a Brahmachari, having controlled their mind, thinking of Me and balanced in mind, let them sit, having Me as their supreme goal.",
+   "translation2": "With peace in his heart and no fear, observing the vow of celibacy, with his mind controlled and fixed on Me, let the student lose himself in contemplation of Me.",
+   "words": "praśhānta=serene; ātmā=mind; vigata-bhīḥ=fearless; brahmachāri-vrate=in the vow of celibacy; sthitaḥ=situated; manaḥ=mind; sanyamya=having controlled; mat-chittaḥ=meditate on me (Shree Krishna); yuktaḥ=engaged; āsīta=should sit; mat-paraḥ=having me as the supreme goal"
+  },
+  {
+   "ref": "6.15",
+   "translation": "Thus, always keeping the mind balanced, the yogi, with the mind controlled, attains the peace abiding in Me, culminating in liberation.",
+   "translation2": "Thus, keeping his mind always in communion with Me and subduing his thoughts, he shall attain that Peace which is Mine and will lead him to liberation at last.",
+   "words": "yuñjan=keeping the mind absorbed in God; evam=thus; sadā=constantly; ātmānam=the mind; yogī=a yogi; niyata-mānasaḥ=one with a disciplined mind; śhāntim=peace; nirvāṇa=liberation from the material bondage; paramām=supreme; mat-sansthām=abides in me; adhigachchhati=attains"
+  },
+  {
+   "ref": "6.16",
+   "translation": "Verily, Yoga is not possible for him who eats too much, nor for him who does not eat at all, nor for him who sleeps too much, nor for him who is always awake, O Arjuna.",
+   "translation2": "Meditation is not for him who eats too much, nor for him who eats not at all; not for him who is overly addicted to sleep, nor for him who is always awake.",
+   "words": "na=not; ati=too much; aśhnataḥ=of one who eats; tu=however; yogaḥ=Yog; asti=there is; na=not; cha=and; ekāntam=at all; anaśhnataḥ=abstaining from eating; na=not; cha=and; ati=too much; svapna-śhīlasya=of one who sleeps; jāgrataḥ=of one who does not sleep enough; na=not; eva=certainly; cha=and; arjuna=Arjun"
+  },
+  {
+   "ref": "6.17",
+   "translation": "Yoga becomes the destroyer of pain for him who is moderate in eating and recreation (such as walking, etc.), who exercises moderation in action, and who is moderate in sleep and wakefulness.",
+   "translation2": "But for him who regulates his food and recreation, who is balanced in action, in sleep, and in waking, it shall dispel all unhappiness.",
+   "words": "yukta=moderate; āhāra=eating; vihārasya=recreation; yukta cheṣhṭasya karmasu=balanced in work; yukta=regulated; svapna-avabodhasya=sleep and wakefulness; yogaḥ=Yog; bhavati=becomes; duḥkha-hā=the slayer of sorrows"
+  },
+  {
+   "ref": "6.18",
+   "translation": "When the perfectly controlled mind rests in the Self alone, free from longing for any of the objects of desire, then it is said, 'He is united'.",
+   "translation2": "When the mind is completely controlled, centered in the Self, and free from all earthly desires, then the man is truly spiritual.",
+   "words": "yadā=when; viniyatam=fully controlled; chittam=the mind; ātmani=of the self; eva=certainly; avatiṣhṭhate=stays; nispṛihaḥ=free from cravings: sarva; kāmebhyaḥ=for yearning of the senses; yuktaḥ=situated in perfect Yog; iti=thus; uchyate=is said; tadā=then"
+  },
+  {
+   "ref": "6.19",
+   "translation": "As a lamp placed in a windless spot does not flicker, so is the Yogi of a controlled mind, who practices Yoga in the Self, compared.",
+   "translation2": "The wise man who has conquered his mind and is absorbed in the Self is like a lamp that does not flicker, as it stands sheltered from every wind.",
+   "words": "yathā=as; dīpaḥ=a lamp; nivāta-sthaḥ=in a windless place; na=does not; iṅgate=flickers; sā=this; upamā=analogy; smṛitā=is considered; yoginaḥ=of a yogi; yata-chittasya=whose mind is disciplined; yuñjataḥ=steadily practicing; yogam=in meditation; ātmanaḥ=on the Supreme"
+  },
+  {
+   "ref": "6.20",
+   "translation": "When the mind, restrained by the practice of yoga, attains quietude, and when one sees the Self by the Self, they are satisfied in their own Self.",
+   "translation2": "There, where the whole of nature is seen in the light of the Self, where the person abides within their Self and is satisfied there, their functions restrained by their union with the Divine, the mind finds rest.",
+   "words": "yatra=when; uparamate=rejoice inner joy; chittam=the mind; niruddham=restrained; yoga-sevayā=by the practice of yog; yatra=when; cha=and; eva=certainly; ātmanā=through the purified mind; ātmānam=the soul; paśhyan=behold; ātmani=in the self; tuṣhyati=is satisfied"
+  },
+  {
+   "ref": "6.21",
+   "translation": "When he (the Yogi) feels that infinite bliss which can be grasped by the pure intellect and which transcends the senses, and is established therein, never moving away from the reality.",
+   "translation2": "When he enjoys the bliss that surpasses the senses and can only be grasped by the pure intellect, when he comes to rest within his highest self, he will never again stray from reality.",
+   "words": "sukham=happiness; ātyantikam=limitless; yat=which; tat=that; buddhi=by intellect; grāhyam=grasp; atīndriyam=transcending the senses; vetti=knows; yatra=wherein; na=never; cha=and; eva=certainly; ayam=he; sthitaḥ=situated; chalati=deviates; tattvataḥ=from the Eternal Truth"
+  },
+  {
+   "ref": "6.22",
+   "translation": "Having obtained it, he thinks there is no other gain superior to it; established in it, he is not moved even by heavy sorrow.",
+   "translation2": "Finding That, he will realize that there is no possession so precious. And once established there, no calamity can disturb him.",
+   "words": "yam=which; labdhvā=having gained; cha=and; aparam=any other; lābham=gain; manyate=considers; na=not; adhikam=greater; tataḥ=than that; yasmin=in which; sthitaḥ=being situated; na=never; duḥkhena=by sorrow; guruṇā=(by) the greatest; api=even; vichālyate=is shaken"
+  },
+  {
+   "ref": "6.23",
+   "translation": "Let this be known by the name of Yoga, the severance from union with pain. This Yoga should be practiced with determination and with an undespairing mind.",
+   "translation2": "This inner severance from the affliction of misery is spirituality. It should be practiced with determination and with a heart that refuses to be depressed.",
+   "words": "tam=that; vidyāt=you should know; duḥkha-sanyoga-viyogam=state of severance from union with misery; yoga-saṁjñitam=is known as yog; saḥ=that; niśhchayena=resolutely; yoktavyaḥ=should be practiced; yogaḥ=yog; anirviṇṇa-chetasā=with an undeviating mind"
+  },
+  {
+   "ref": "6.24",
+   "translation": "Abandoning unreservedly all desires born of Sankalpa (thought and imagination) and completely restraining the whole group of senses by the mind from all sides.",
+   "translation2": "Renouncing every desire that can be imagined, controlling the senses at every point through the power of the mind;",
+   "words": "saṅkalpa=a resolve; prabhavān=born of; kāmān=desires; tyaktvā=having abandoned; sarvān=all; aśheṣhataḥ=completely; manasā=through the mind; eva=certainly; indriya-grāmam=the group of senses; viniyamya=restraining; samantataḥ=from all sides"
+  },
+  {
+   "ref": "6.25",
+   "translation": "Little by little, let him attain steadiness of the intellect by holding it firmly; having made the mind establish itself in the Self, let him not think of anything else.",
+   "translation2": "Little by little, with the help of his reason controlled by fortitude, let him attain peace; and, fixing his mind on the Self, let him not think of anything else.",
+   "words": "śhanaiḥ=gradually; śhanaiḥ=gradually; uparamet=attain peace; buddhyā=by intellect; dhṛiti-gṛihītayā=achieved through determination of resolve that is in accordance with scriptures; ātma-sanstham=fixed in God; manaḥ=mind; kṛitvā=having made; na=not; kiñchit=anything; api=even; chintayet=should think of"
+  },
+  {
+   "ref": "6.26",
+   "translation": "From whatever cause the restless and unsteady mind wanders away, let him restrain it from that and bring it under the control of the Self alone.",
+   "translation2": "When the volatile and wavering mind wanders, let him restrain it and bring it back to its allegiance to the Self.",
+   "words": "yataḥ yataḥ=whenever and wherever; niśhcharati=wanders; manaḥ=the mind; chañchalam=restless; asthiram=unsteady; tataḥ tataḥ=from there; niyamya=having restrained; etat=this; ātmani=on God; eva=certainly; vaśham=control; nayet=should bring"
+  },
+  {
+   "ref": "6.27",
+   "translation": "Supreme Bliss indeed comes to this Yogi whose mind is made peaceful, whose passion is quelled, who has become Brahman, and who is free from sin.",
+   "translation2": "Supreme bliss is the lot of the sage whose mind attains peace, whose passions subside, who is without sin, and who becomes one with the Absolute.",
+   "words": "praśhānta=peaceful; manasam=mind; hi=certainly; enam=this; yoginam=yogi; sukham uttamam=the highest bliss; upaiti=attains; śhānta-rajasam=whose passions are subdued; brahma-bhūtam=endowed with God-realization; akalmaṣham=without sin"
+  },
+  {
+   "ref": "6.28",
+   "translation": "The yogi, always engaging the mind thus (in the practice of yoga), is freed from sins and easily enjoys the infinite bliss of contact with Brahman (the Eternal).",
+   "translation2": "Thus, free from sin, abiding always in the Eternal, the saint enjoys, without effort, the bliss that flows from the realization of the Infinite.",
+   "words": "yuñjan=uniting (the self with God); evam=thus; sadā=always; ātmānam=the self; yogī=a yogi; vigata=freed from; kalmaṣhaḥ=sins; sukhena=easily; brahma-sansparśham=constantly in touch with the Supreme; atyantam=the highest; sukham=bliss; aśhnute=attains"
+  },
+  {
+   "ref": "6.29",
+   "translation": "With the mind harmonized by Yoga, he sees the Self abiding in all beings and all beings in the Self; he sees the same everywhere.",
+   "translation2": "He who experiences the unity of life sees his own Self in all beings, and all beings in his own Self, and looks upon everything with an impartial eye.",
+   "words": "sarva-bhūta-stham=situated in all living beings; ātmānam=Supreme Soul; sarva=all; bhūtāni=living beings; cha=and; ātmani=in God; īkṣhate=sees; yoga-yukta-ātmā=one united in consciousness with God; sarvatra=everywhere; sama-darśhanaḥ=equal vision"
+  },
+  {
+   "ref": "6.30",
+   "translation": "He who sees Me everywhere and sees everything in Me, never becomes separated from Me, nor do I from him.",
+   "translation2": "He who sees Me in everything and everything in Me, I shall never forsake him, nor shall he lose Me.",
+   "words": "yaḥ=who; mām=me; paśhyati=see; sarvatra=everywhere; sarvam=everything; cha=and; mayi=in me; paśhyati=see; tasya=for him; aham=I; na=not; praṇaśhyāmi=lost; saḥ=that person; cha=and; me=to me; na=nor; praṇaśhyati=lost"
+  },
+  {
+   "ref": "6.31",
+   "translation": "He who, being established in unity, worships Me, who dwells in all beings, that yogi abides in Me, whatever their mode of living may be.",
+   "translation2": "The sage who realizes the unity of life and who worships Me in all beings, lives in Me, no matter what their lot may be.",
+   "words": "sarva-bhūta-sthitam=situated in all beings; yaḥ=who; mām=me; bhajati=worships; ekatvam=in unity; āsthitaḥ=established; sarvathā=in all kinds of; varta-mānaḥ=remain; api=although; saḥ=he; yogī=a yogi; mayi=in me; vartate=dwells"
+  },
+  {
+   "ref": "6.32",
+   "translation": "He who, through the likeness of the Self, O Arjuna, sees reality everywhere, be it pleasure or pain, is regarded as the highest Yogi.",
+   "translation2": "O Arjuna! He is the perfect saint who, having been taught by the likeness within himself, sees the same Self everywhere, regardless of whether the outer form be pleasurable or painful.",
+   "words": "ātma-aupamyena=similar to oneself; sarvatra=everywhere; samam=equally; paśhyati=see; yaḥ=who; arjuna=Arjun; sukham=joy; vā=or; yadi=if; vā=or; duḥkham=sorrow; saḥ=such; yogī=a yogi; paramaḥ=highest; mataḥ=is considered"
+  },
+  {
+   "ref": "6.33",
+   "translation": "Arjuna said, \"O Krishna, I do not see how this Yoga of equanimity, which you have taught me, can be maintained steadily, due to the restlessness of the mind.\"",
+   "translation2": "Arjuna said: I do not see how I can attain this state of equanimity which You have revealed, owing to the restlessness of my mind.",
+   "words": "arjunaḥ uvācha=Arjun said; yaḥ=which; ayam=this; yogaḥ=system of Yog; tvayā=by you; proktaḥ=described; sāmyena=by equanimity; madhu-sūdana=Shree Krishna, the killer of the demon named Madhu; etasya=of this; aham=I; na=do not; paśhyāmi=see; chañchalatvāt=due to restlessness; sthitim=situation; sthirām=steady"
+  },
+  {
+   "ref": "6.34",
+   "translation": "The mind is indeed restless, turbulent, strong, and unyielding, O Krishna; I consider it as difficult to control as controlling the wind.",
+   "translation2": "My Lord! Verily, the mind is fickle and turbulent, obstinate, and strong; indeed, it is extremely difficult to control, like the wind.",
+   "words": "chañchalam=restless; hi=certainly; manaḥ=mind; kṛiṣhṇa=Shree Krishna; pramāthi=turbulent; bala-vat=strong; dṛiḍham=obstinate; tasya=its; aham=I; nigraham=control; manye=think; vāyoḥ=of the wind; iva=like; su-duṣhkaram=difficult to perform"
+  },
+  {
+   "ref": "6.35",
+   "translation": "The Blessed Lord said, \"Undoubtedly, O mighty-armed Arjuna, the mind is difficult to control and restless; but with practice and dispassion, it can be restrained.\"",
+   "translation2": "Lord Shri Krishna replied: Doubtless, O Mighty One, the mind is fickle and exceedingly difficult to restrain; however, O Son of Kunti, with practice and renunciation, it can be done.",
+   "words": "śhrī-bhagavān uvācha=Lord Krishna said; asanśhayam=undoubtedly; mahā-bāho=mighty-armed one; manaḥ=the mind; durnigraham=difficult to restrain; chalam=restless; abhyāsena=by practice; tu=but; kaunteya=Arjun, the son of Kunti; vairāgyeṇa=by detachment; cha=and; gṛihyate=can be controlled"
+  },
+  {
+   "ref": "6.36",
+   "translation": "I think Yoga is hard to be attained by one with an uncontrolled self, but the self-controlled and striving one can attain it by the appropriate means.",
+   "translation2": "It is not possible to attain Self-Realization unless one knows how to control oneself; however, for one who, striving by the proper means, learns such control, it is possible.",
+   "words": "asanyata-ātmanā=one whose mind is unbridled; yogaḥ=Yog; duṣhprāpaḥ=difficult to attain; iti=thus; me=my; matiḥ=opinion; vaśhya-ātmanā=by one whose mind is controlled; tu=but; yatatā=one who strives; śhakyaḥ=possible; avāptum=to achieve; upāyataḥ=by right means"
+  },
+  {
+   "ref": "6.37",
+   "translation": "Arjuna said, \"He who is unable to control himself, even though he has faith, and whose mind wanders away from Yoga, what end does he meet, having failed to attain perfection in Yoga, O Krishna?\"",
+   "translation2": "Arjuna asked: What of him who fails to control himself, whose mind falls from spiritual contemplation, yet retains his faith and does not attain perfection?",
+   "words": "arjunaḥ uvācha=Arjun said; ayatiḥ=lax; śhraddhayā=with faith; upetaḥ=possessed; yogāt=from Yog; chalita-mānasaḥ=whose mind becomes deviated; aprāpya=failing to attain; yoga-sansiddhim=the highest perfection in yog; kām=which; gatim=destination; kṛiṣhṇa=Shree Krishna; gachchhati=goes"
+  },
+  {
+   "ref": "6.38",
+   "translation": "Fallen from both, does he not perish like a rent cloud, supportless, O mighty-armed one, deluded on the path of Brahman?",
+   "translation2": "Having failed in both, my Lord, is he without hope, like a riven cloud with no support, lost on the spiritual path?",
+   "words": "kachchit=whether; na=not; ubhaya=both; vibhraṣhṭaḥ=deviated from; chhinna=broken; abhram=cloud; iva=like; naśhyati=perishes; apratiṣhṭhaḥ=without any support; mahā-bāho=mighty-armed Krishna; vimūḍhaḥ=bewildered; brahmaṇaḥ=of God-realization; pathi=one on the path"
+  },
+  {
+   "ref": "6.39",
+   "translation": "O Krishna, please completely dispel this doubt of mine, for it is not possible for anyone but You to do so.",
+   "translation2": "My Lord! You are worthy to solve this doubt once and for all; there is no one else competent to do so, save Yourself.",
+   "words": "etat=this; me=my; sanśhayam=doubt; kṛiṣhṇa=Krishna; chhettum=to dispel; arhasi=you can; aśheṣhataḥ=completely; tvat=than you; anyaḥ=other; sanśhayasya=of doubt; asya=this; chhettā=a dispeller; na=never; hi=certainly; upapadyate=is fit"
+  },
+  {
+   "ref": "6.40",
+   "translation": "The Blessed Lord said, \"O Arjuna, neither in this world nor in the next will there be destruction for him; none, indeed, who does good, O my son, ever comes to grief.\"",
+   "translation2": "Lord Shri Krishna replied: My beloved child! There is no destruction for him, either in this world or the next. No evil fate awaits him who treads the path of righteousness.",
+   "words": "śhrī-bhagavān uvācha=the Supreme Lord said; pārtha=Arjun, the son of Pritha; na eva=never; iha=in this world; na=never; amutra=in the next world; vināśhaḥ=destruction; tasya=his; vidyate=exists; na=never; hi=certainly; kalyāṇa-kṛit=one who strives for God-realization; kaśhchit=anyone; durgatim=evil destination; tāta=my friend; gachchhati=goes"
+  },
+  {
+   "ref": "6.41",
+   "translation": "Having attained to the worlds of the righteous and having dwelt there for everlasting years, he who fell from Yoga is born in a house of the pure and wealthy.",
+   "translation2": "Having reached the worlds where the righteous dwell, and having remained there for many years, he who has strayed from the path of spirituality will be born again into the family of the pure, benevolent, and prosperous.",
+   "words": "prāpya=attain; puṇya-kṛitām=of the virtuous; lokān=abodes; uṣhitvā=after dwelling; śhāśhvatīḥ=many; samāḥ=ages; śhuchīnām=of the pious; śhrī-matām=of the prosperous; gehe=in the house; yoga-bhraṣhṭaḥ=the unsuccessful yogis; abhijāyate=take birth"
+  },
+  {
+   "ref": "6.42",
+   "translation": "Or he is born in a family of even the wisest of yogis; verily, such a birth is very difficult to obtain in this world.",
+   "translation2": "Or, he may be born in the family of wise sages, though such a birth is indeed very difficult to obtain.",
+   "words": "atha vā=else; yoginām=of those endowed with divine wisdom; eva=certainly; kule=in the family; bhavati=take birth; dhī-matām=of the wise; etat=this; hi=certainly; durlabha-taram=very rare; loke=in this world; janma=birth; yat=which; īdṛiśham=like this"
+  },
+  {
+   "ref": "6.43",
+   "translation": "Then he comes into contact with the knowledge acquired in his former body and strives even more for perfection, O Arjuna.",
+   "translation2": "Then, the experience acquired in his former life will revive, and with it, he will more eagerly strive for perfection than before.",
+   "words": "tatra=there; tam=that; buddhi-sanyogam=reawaken their wisdom; labhate=obtains; paurva-dehikam=from the previous lives; yatate=strives; cha=and; tataḥ=thereafter; bhūyaḥ=again; sansiddhau=for perfection; kuru-nandana=Arjun, descendant of the Kurus"
+  },
+  {
+   "ref": "6.44",
+   "translation": "By that same former practice, he is borne on in spite of himself. Even he who merely wishes to know Yoga goes beyond the Brahmanic word.",
+   "translation2": "Unconsciously, he will return to the practices of his old life; thus, one who strives to attain spiritual consciousness is certainly superior to one who merely talks about it.",
+   "words": "pūrva=past; abhyāsena=discipline; tena=by that; eva=certainly; hriyate=is attracted; hi=surely; avaśhaḥ=helplessly; api=although; saḥ=that person; jijñāsuḥ=inquisitive; api=even; yogasya=about yog; śhabda-brahma=fruitive portion of the Vedas; ativartate=transcends"
+  },
+  {
+   "ref": "6.45",
+   "translation": "But the Yogi who strives assiduously, purified of sins and perfected gradually over many births, reaches the highest goal.",
+   "translation2": "Then, after many lives of earnest striving and absolution of sins, the student of spirituality attains perfection and reaches the Supreme.",
+   "words": "prayatnāt=with great effort; yatamānaḥ=endeavoring; tu=and; yogī=a yogi; sanśhuddha=purified; kilbiṣhaḥ=from material desires; aneka=after many, many; janma=births; sansiddhaḥ=attain perfection; tataḥ=then; yāti=attains; parām=the highest; gatim=path"
+  },
+  {
+   "ref": "6.46",
+   "translation": "The yogi is thought to be superior to the ascetics, even superior to those who have knowledge obtained through the study of scriptures; he is also superior to men of action; therefore, be thou a yogi, O Arjuna.",
+   "translation2": "The wise person is superior to the ascetic, the scholar, and the man of action; therefore, be thou a wise person, O Arjuna!",
+   "words": "tapasvibhyaḥ=than the ascetics; adhikaḥ=superior; yogī=a yogi; jñānibhyaḥ=than the persons of learning; api=even; mataḥ=considered; adhikaḥ=superior; karmibhyaḥ=than the ritualistic performers; cha=and; adhikaḥ=superior; yogī=a yogi; tasmāt=therefore; yogī=a yogi; bhava=just become; arjuna=Arjun"
+  },
+  {
+   "ref": "6.47",
+   "translation": "And among all the Yogis, he who, full of faith and with his inner self merged in Me, worships Me is deemed by Me to be the most devoted.",
+   "translation2": "I look upon him as the best of mystics, who, full of faith, worships Me and abides in Me.",
+   "words": "yoginām=of all yogis; api=however; sarveṣhām=all types of; mat-gatena=absorbed in me (God); antaḥ=inner; ātmanā=with the mind; śhraddhā-vān=with great faith; bhajate=engage in devotion; yaḥ=who; mām=to me; saḥ=he; me=by me; yukta-tamaḥ=the highest yogi; mataḥ=is considered"
+  }
+ ]
+}

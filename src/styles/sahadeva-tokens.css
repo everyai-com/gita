@@ -1,0 +1,40 @@
+/* Sahadeva — Sanskrit-grounded product design tokens. */
+:root {
+  color-scheme: light dark;
+  --sd-canvas:#f7f6f2; --sd-surface:#fff; --sd-surface-warm:#f1f0ec; --sd-surface-raised:#fbfaf6;
+  --sd-text:#20201e; --sd-text-secondary:#45443f; --sd-muted:#6c6b67; --sd-meta:#7d7b74;
+  --sd-border:#e2e0da; --sd-border-soft:#ebe9e3; --sd-interaction:#665f8e;
+  --sd-interaction-hover:#58517f; --sd-interaction-active:#4d4770; --sd-on-interaction:#fff;
+  --sd-cultural-ink:#242532; --sd-copper:#b87327; --sd-antique-gold:#a98b52;
+  --sd-success:#367c50; --sd-warning:#a06e19; --sd-danger:#a83f34;
+  --sd-font-display:"Fraunces","Iowan Old Style",Georgia,serif;
+  --sd-font-body:"Figtree","Noto Sans","Helvetica Neue",Arial,sans-serif;
+  --sd-font-mono:"SF Mono",ui-monospace,"JetBrains Mono",Menlo,monospace;
+  --sd-text-xs:12px; --sd-text-sm:14px; --sd-text-base:17px; --sd-text-lg:21px;
+  --sd-text-xl:28px; --sd-text-2xl:40px; --sd-text-3xl:48px; --sd-text-4xl:64px;
+  --sd-leading-body:1.55; --sd-leading-tight:1.08;
+  --sd-space-1:4px; --sd-space-2:8px; --sd-space-3:12px; --sd-space-4:16px;
+  --sd-space-5:20px; --sd-space-6:24px; --sd-space-8:32px; --sd-space-12:48px;
+  --sd-radius-sm:8px; --sd-radius-md:12px; --sd-radius-lg:16px; --sd-radius-pill:999px;
+  --sd-shadow-raised:0 18px 46px rgb(36 37 50 / 8%);
+  --sd-focus-ring:0 0 0 4px color-mix(in oklab,var(--sd-interaction),transparent 65%);
+  --sd-motion-fast:150ms; --sd-motion-base:220ms; --sd-ease-standard:cubic-bezier(.28,0,.22,1);
+  --sd-reading-width:760px; --sd-container-width:1200px;
+  /* Compatibility aliases used by the reference components. */
+  --bg:var(--sd-canvas); --surface:var(--sd-surface); --surface-warm:var(--sd-surface-warm);
+  --surface-raised:var(--sd-surface-raised); --fg:var(--sd-text); --fg-2:var(--sd-text-secondary);
+  --muted:var(--sd-muted); --meta:var(--sd-meta); --border:var(--sd-border); --border-soft:var(--sd-border-soft);
+  --accent:var(--sd-interaction); --accent-hover:var(--sd-interaction-hover); --accent-active:var(--sd-interaction-active);
+  --accent-on:var(--sd-on-interaction); --cultural-ink:var(--sd-cultural-ink); --copper:var(--sd-copper);
+  --gold:var(--sd-antique-gold); --success:var(--sd-success); --warn:var(--sd-warning); --danger:var(--sd-danger);
+  --font-display:var(--sd-font-display); --font-body:var(--sd-font-body); --font-mono:var(--sd-font-mono);
+  --ease-standard:var(--sd-ease-standard);
+}
+@media(prefers-color-scheme:dark){:root{
+  --sd-canvas:#171716; --sd-surface:#1f1f1d; --sd-surface-warm:#191918; --sd-surface-raised:#282825;
+  --sd-text:#f2f1ed; --sd-text-secondary:#d0cec7; --sd-muted:#aaa9a3; --sd-meta:#92918b;
+  --sd-border:#343431; --sd-border-soft:#2a2a27; --sd-interaction:#9189bd;
+  --sd-interaction-hover:#a39bce; --sd-interaction-active:#7e76aa; --sd-cultural-ink:#f2f1ed;
+  --sd-copper:#d39958; --sd-antique-gold:#c6a669;
+}}
+@media(prefers-reduced-motion:reduce){:root{--sd-motion-fast:0ms;--sd-motion-base:0ms}}

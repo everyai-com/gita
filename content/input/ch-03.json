@@ -1,0 +1,356 @@
+{
+ "chapter": 3,
+ "name": "Karm Yog",
+ "title": "Path of Selfless Service",
+ "summary": "The third chapter of the Bhagavad Gita is \"Karma Yoga\" or the \"Path of Selfless Service\". Here Lord Krishna emphasizes the importance of karma in life. He reveals that it is important for every human being to engage in some sort of activity in this material world. Further, he describes the kinds of actions that lead to bondage and the kinds that lead to liberation. Those persons who continue to perform their respective duties externally for the pleasure of the Supreme, without attachment to its rewards get liberation at the end.",
+ "lessons": [
+  {
+   "id": "3-1",
+   "refs": [
+    "3.1",
+    "3.2",
+    "3.3",
+    "3.4",
+    "3.5"
+   ]
+  },
+  {
+   "id": "3-2",
+   "refs": [
+    "3.6",
+    "3.7",
+    "3.8",
+    "3.9",
+    "3.10"
+   ]
+  },
+  {
+   "id": "3-3",
+   "refs": [
+    "3.11",
+    "3.12",
+    "3.13",
+    "3.14"
+   ]
+  },
+  {
+   "id": "3-4",
+   "refs": [
+    "3.15",
+    "3.16",
+    "3.17",
+    "3.18",
+    "3.19"
+   ]
+  },
+  {
+   "id": "3-5",
+   "refs": [
+    "3.20",
+    "3.21",
+    "3.22",
+    "3.23",
+    "3.24"
+   ]
+  },
+  {
+   "id": "3-6",
+   "refs": [
+    "3.25",
+    "3.26",
+    "3.27",
+    "3.28",
+    "3.29"
+   ]
+  },
+  {
+   "id": "3-7",
+   "refs": [
+    "3.30",
+    "3.31",
+    "3.32",
+    "3.33"
+   ]
+  },
+  {
+   "id": "3-8",
+   "refs": [
+    "3.34",
+    "3.35",
+    "3.36",
+    "3.37",
+    "3.38"
+   ]
+  },
+  {
+   "id": "3-9",
+   "refs": [
+    "3.39",
+    "3.40",
+    "3.41",
+    "3.42",
+    "3.43"
+   ]
+  }
+ ],
+ "verses": [
+  {
+   "ref": "3.1",
+   "translation": "Arjuna said: If Thou thinkest that knowledge is superior to action, O Krishna, why then, O Kesava, doest Thou ask me to engage in this terrible action?",
+   "translation2": "Arjuna questioned: My Lord! If wisdom is superior to action, why do you advise me to engage in this terrible fight?",
+   "words": "arjunaḥ uvācha=Arjun said; jyāyasī=superior; chet=if; karmaṇaḥ=than fruitive action; te=by you; matā=is considered; buddhiḥ=intellect; janārdana=he who looks after the public, Krishna; tat=then; kim=why; karmaṇi=action; ghore=terrible; mām=me; niyojayasi=do you engage; keśhava=Krishna, the killer of the demon named Keshi"
+  },
+  {
+   "ref": "3.2",
+   "translation": "With this seemingly perplexing speech, you seem to be confusing my understanding; therefore, tell me one certain way by which I may attain bliss.",
+   "translation2": "Your language confuses me and confounds my reason. Therefore, please tell me the only way by which I can, without doubt, secure my spiritual welfare.",
+   "words": "vyāmiśhreṇa iva=by your apparently ambiguous; vākyena=words; buddhim=intellect; mohayasi=I am getting bewildered; iva=as it were; me=my; tat=therefore; ekam=one; vada=please tell; niśhchitya=decisively; yena=by which; śhreyaḥ=the highest good; aham=I; āpnuyām=may attain"
+  },
+  {
+   "ref": "3.3",
+   "translation": "The Blessed Lord said, \"In this world, there is a twofold path, as I said before, O sinless one: the path of knowledge of the Sankhyas and the path of action of the Yogins.\"",
+   "translation2": "Lord Shri Krishna replied: In this world, as I have said, there is a twofold path, O sinless one! There is the path of wisdom for those who meditate, and the path of action for those who work.",
+   "words": "śhrī-bhagavān uvācha=the Blessed Lord said; loke=in the world; asmin=this; dvi-vidhā=two kinds of; niṣhṭhā=faith; purā=previously; proktā=explained; mayā=by me (Shree Krishna); anagha=sinless; jñāna-yogena=through the path of knowledge; sānkhyānām=for those inclined toward contemplation; karma-yogena=through the path of action; yoginām=of the yogis"
+  },
+  {
+   "ref": "3.4",
+   "translation": "Man does not reach actionlessness by not performing actions; nor does he attain perfection by mere renunciation.",
+   "translation2": "No one can attain freedom from action by abstaining from action, nor can they reach perfection by simply not acting.",
+   "words": "na=not; karmaṇām=of actions; anārambhāt=by abstaining from; naiṣhkarmyam=freedom from karmic reactions; puruṣhaḥ=a person; aśhnute=attains; na=not; cha=and; sannyasanāt=by renunciation; eva=only; siddhim=perfection; samadhigachchhati=attains"
+  },
+  {
+   "ref": "3.5",
+   "translation": "Verily, no one can remain for even a moment without performing action; for everyone is made to act helplessly, indeed, by the qualities born of Nature.",
+   "translation2": "He cannot remain inactive even for a moment, for the qualities of Nature will compel him to act, whether he wills it or not.",
+   "words": "na=not; hi=certainly; kaśhchit=anyone; kṣhaṇam=a moment; api=even; jātu=ever; tiṣhṭhati=can remain; akarma-kṛit=without action; kāryate=are performed; hi=certainly; avaśhaḥ=helpless; karma=work; sarvaḥ=all; prakṛiti-jaiḥ=born of material nature; guṇaiḥ=by the qualities"
+  },
+  {
+   "ref": "3.6",
+   "translation": "He who, restraining the organs of action, sits thinking of the sense-objects in his mind, he of deluded understanding is called a hypocrite.",
+   "translation2": "He who remains motionless, refusing to act, yet brooding over sensuous objects, is that deluded soul simply a hypocrite.",
+   "words": "karma-indriyāṇi=the organs of action; sanyamya=restrain; yaḥ=who; āste=remain; manasā=in the mind; smaran=to remember; indriya-arthān=sense objects; vimūḍha-ātmā=the deluded; mithyā-āchāraḥ=hypocrite; saḥ=they; uchyate=are called"
+  },
+  {
+   "ref": "3.7",
+   "translation": "But whoever, controlling the senses by the mind, O Arjuna, engages himself in Karma Yoga with the organs of action, without attachment, he excels.",
+   "translation2": "But, O Arjuna! All honor to him whose mind controls his senses, for he is thereby beginning to practice Karma-Yoga, the Path of Right Action, keeping himself always unattached.",
+   "words": "yaḥ=who; tu=but; indriyāṇi=the senses; manasā=by the mind; niyamya=control; ārabhate=begins; arjuna=Arjun; karma-indriyaiḥ=by the working senses; karma-yogam=karm yog; asaktaḥ=without attachment; saḥ=they; viśhiṣhyate=are superior"
+  },
+  {
+   "ref": "3.8",
+   "translation": "Perform your bounden duty, for action is superior to inaction, and even the maintenance of the body would not be possible for you through inaction.",
+   "translation2": "Do your duty as prescribed, for action for duty's sake is superior to inaction. Even the maintenance of the body would be impossible if one remained inactive.",
+   "words": "niyatam=constantly; kuru=perform; karma=Vedic duties; tvam=you; karma=action; jyāyaḥ=superior; hi=certainly; akarmaṇaḥ=than inaction; śharīra=bodily; yātrā=maintenance; api=even; cha=and; te=your; na prasiddhyet=would not be possible; akarmaṇaḥ=inaction"
+  },
+  {
+   "ref": "3.9",
+   "translation": "The world is bound by actions other than those performed for the sake of sacrifice; do thou, therefore, O son of Kunti (Arjuna), perform actions for that sake alone, free from attachment.",
+   "translation2": "In this world, people are fettered by their actions, unless they are performed as a sacrifice. Therefore, O Arjuna, let your actions be done without attachment, as a sacrifice only.",
+   "words": "yajña-arthāt=for the sake of sacrifice; karmaṇaḥ=than action; anyatra=else; lokaḥ=material world; ayam=this; karma-bandhanaḥ=bondage through one’s work; tat=that; artham=for the sake of; karma=action; kaunteya=Arjun, the son of Kunti; mukta-saṅgaḥ=free from attachment; samāchara=perform properly"
+  },
+  {
+   "ref": "3.10",
+   "translation": "The Creator, having in the beginning created mankind together with sacrifice, said, \"By this shall you propagate; let this be the milch cow of your desires—the cow that yields all the desired objects.\"",
+   "translation2": "In the beginning, when God created all beings through the sacrifice of Himself, He said to them: \"You can procreate through sacrifice, and it shall satisfy all your desires.\"",
+   "words": "saha=along with; yajñāḥ=sacrifices; prajāḥ=humankind; sṛiṣhṭvā=created; purā=in beginning; uvācha=said; prajā-patiḥ=Brahma; anena=by this; prasaviṣhyadhvam=increase prosperity; eṣhaḥ=these; vaḥ=your; astu=shall be; iṣhṭa-kāma-dhuk=bestower of all wishes"
+  },
+  {
+   "ref": "3.11",
+   "translation": "With this, nourish the gods, and may the gods nourish you; thus, nourishing each other, you shall attain the highest good.",
+   "translation2": "Worship the powers of Nature, and let them nourish you in return; thus, supporting each other, you shall attain your highest welfare.",
+   "words": "devān=celestial gods; bhāvayatā=will be pleased; anena=by these (sacrifices); te=those; devāḥ=celestial gods; bhāvayantu=will be pleased; vaḥ=you; parasparam=one another; bhāvayantaḥ=pleasing one another; śhreyaḥ=prosperity; param=the supreme; avāpsyatha=shall achieve"
+  },
+  {
+   "ref": "3.12",
+   "translation": "The gods, nourished by the sacrifice, will give you the desired objects. So, he who enjoys the objects given by the gods without offering anything in return is indeed a thief.",
+   "translation2": "For, fed by sacrifice, nature will give you all the enjoyment you desire. But he who enjoys what she gives without returning is, indeed, a thief.",
+   "words": "iṣhṭān=desired; bhogān=necessities of life; hi=certainly; vaḥ=unto you; devāḥ=the celestial gods; dāsyante=will grant; yajña-bhāvitāḥ=satisfied by sacrifice; taiḥ=by them; dattān=things granted; apradāya=without offering; ebhyaḥ=to them; yaḥ=who; bhuṅkte=enjoys; stenaḥ=thieves; eva=verily; saḥ=they"
+  },
+  {
+   "ref": "3.13",
+   "translation": "The righteous who eat the remnants of the sacrifice are freed from all sins; but those sinful ones who cook food solely for their own sake indeed consume sin.",
+   "translation2": "The sages who enjoy the food that remains after the sacrifice is made are freed from all sins; whereas, the selfish who spread their feast only for themselves feed on sin alone.",
+   "words": "yajña-śhiṣhṭa=of remnants of food offered in sacrifice; aśhinaḥ=eaters; santaḥ=saintly persons; muchyante=are released; sarva=all kinds of; kilbiṣhaiḥ=from sins; bhuñjate=enjoy; te=they; tu=but; agham=sins; pāpāḥ=sinners; ye=who; pachanti=cook (food); ātma-kāraṇāt=for their own sake"
+  },
+  {
+   "ref": "3.14",
+   "translation": "From food come forth beings; from rain, food is produced; from sacrifice arises rain, and sacrifice is born of action.",
+   "translation2": "All creatures are the product of food; food is the product of rain; rain comes from sacrifice, and sacrifice is the noblest form of action.",
+   "words": "annāt=from food; bhavanti=subsist; bhūtāni=living beings; parjanyāt=from rains; anna=of food grains; sambhavaḥ=production; yajñāt=from the performance of sacrifice; bhavati=becomes possible; parjanyaḥ=rain; yajñaḥ=performance of sacrifice; karma=prescribed duties; samudbhavaḥ=born of"
+  },
+  {
+   "ref": "3.15",
+   "translation": "Know that action comes from Brahma, and Brahma comes from the Imperishable. Therefore, the all-pervasive Brahma ever rests in sacrifice.",
+   "translation2": "All actions originate from the Supreme Spirit, which is Imperishable, and in sacrificial actions, the all-pervasive Spirit is consciously present.",
+   "words": "karma=duties; brahma=in the Vedas; udbhavam=manifested; viddhi=you should know; brahma=The Vedas; akṣhara=from the Imperishable (God); samudbhavam=directly manifested; tasmāt=therefore; sarva-gatam=all-pervading; brahma=The Lord; nityam=eternally; yajñe=in sacrifice; pratiṣhṭhitam=established"
+  },
+  {
+   "ref": "3.16",
+   "translation": "He who does not follow the wheel thus set in motion, who is of sinful life, rejoicing in the senses, lives in vain, O Arjuna.",
+   "translation2": "Thus, he who does not help the revolving wheel of sacrifice, but instead leads a sinful life, rejoicing in the gratification of his senses, O Arjuna, is breathing in vain.",
+   "words": "evam=thus; pravartitam=set into motion; chakram=cycle; na=not; anuvartayati=follow; iha=in this life; yaḥ=who; agha-āyuḥ=sinful living; indriya-ārāmaḥ=for the delight of their senses; mogham=vainly; pārtha=Arjun, the son of Pritha; saḥ=they; jīvati=live"
+  },
+  {
+   "ref": "3.17",
+   "translation": "But for that man who rejoices only in the Self, who is satisfied with the Self and is content in the Self alone, indeed there is nothing to do.",
+   "translation2": "On the other hand, the soul who meditates on the Self is content to serve the Self and rests satisfied in the Self; there is nothing more for them to accomplish.",
+   "words": "yaḥ=who; tu=but; ātma-ratiḥ=rejoice in the self; eva=certainly; syāt=is; ātma-tṛiptaḥ=self-satisfied; cha=and; mānavaḥ=human being; ātmani=in the self; eva=certainly; cha=and; santuṣhṭaḥ=satisfied; tasya=his; kāryam=duty; na=not; vidyate=exist"
+  },
+  {
+   "ref": "3.18",
+   "translation": "For him, there is no interest whatsoever in what is done or not done; nor does he depend on any being for any purpose.",
+   "translation2": "He has nothing to gain from the performance or non-performance of action; his welfare does not depend on any contribution that an earthly creature can make.",
+   "words": "na=not; eva=indeed; tasya=his; kṛitena=by discharge of duty; arthaḥ=gain; na=not; akṛitena=without discharge of duty; iha=here; kaśhchana=whatsoever; na=never; cha=and; asya=of that person; sarva-bhūteṣhu=among all living beings; kaśhchit=any; artha=necessity; vyapāśhrayaḥ=to depend upon"
+  },
+  {
+   "ref": "3.19",
+   "translation": "Therefore, without attachment, always perform the actions that should be done; for by performing actions without attachment, one reaches the Supreme.",
+   "translation2": "Therefore, do your duty perfectly, without worrying about the results, for he who does his duty without attachment attains the Supreme.",
+   "words": "tasmāt=therefore; asaktaḥ=without attachment; satatam=constantly; kāryam=duty; karma=action; samāchara=perform; asaktaḥ=unattached; hi=certainly; ācharan=performing; karma=work; param=the Supreme; āpnoti=attains; pūruṣhaḥ=a person"
+  },
+  {
+   "ref": "3.20",
+   "translation": "Janaka and others attained perfection indeed through action alone; even with the intention of protecting the masses, you should perform action.",
+   "translation2": "King Janaka and others attained perfection through action alone. Even for the sake of enlightening the world, it is your duty to act.",
+   "words": "karmaṇā=by the performance of prescribed duties; eva=only; hi=certainly; sansiddhim=perfection; āsthitāḥ=attained; janaka-ādayaḥ=King Janak and other kings; loka-saṅgraham=for the welfare of the masses; eva api=only; sampaśhyan=considering; kartum=to perform; arhasi=you should"
+  },
+  {
+   "ref": "3.21",
+   "translation": "Whatever a great man does, others also do; whatever he establishes as the standard, the world follows.",
+   "translation2": "For whatever a great man does, others imitate; people conform to the standard he has set.",
+   "words": "yat yat=whatever; ācharati=does; śhreṣhṭhaḥ=the best; tat tat=that (alone); eva=certainly; itaraḥ=common; janaḥ=people; saḥ=they; yat=whichever; pramāṇam=standard; kurute=perform; lokaḥ=world; tat=that; anuvartate=pursues"
+  },
+  {
+   "ref": "3.22",
+   "translation": "There is nothing in the three worlds, O Arjuna, that needs to be done by Me, nor is there anything unattained that needs to be attained; yet I engage Myself in action.",
+   "translation2": "There is nothing in this universe, O Arjuna, that I am compelled to do, nor anything for me to attain; yet I persistently remain active.",
+   "words": "na=not; me=mine; pārtha=Arjun; asti=is; kartavyam=duty; triṣhu=in the three; lokeṣhu=worlds; kiñchana=any; na=not; anavāptam=to be attained; avāptavyam=to be gained; varte=I am engaged; eva=yet; cha=also; karmaṇi=in prescribed duties"
+  },
+  {
+   "ref": "3.23",
+   "translation": "For, should I not ever engage myself in action, unwearied, people would in every way follow my path, O Arjuna.",
+   "translation2": "Were I not to act without ceasing, O prince, people would be inclined to do the same.",
+   "words": "yadi=if; hi=certainly; aham=I; na=not; varteyam=thus engage; jātu=ever; karmaṇi=in the performance of prescribed duties; atandritaḥ=carefully; mama=my; vartma=path; anuvartante=follow; manuṣhyāḥ=all men; pārtha=Arjun, the son of Pritha; sarvaśhaḥ=in all respects"
+  },
+  {
+   "ref": "3.24",
+   "translation": "These worlds would perish if I did not perform action; I would be the author of confusion of castes and destruction of these beings.",
+   "translation2": "And if I were to refrain from action, the human race would be ruined; I would lead the world to chaos, and destruction would follow.",
+   "words": "utsīdeyuḥ=would perish; ime=all these; lokāḥ=worlds; na=not; kuryām=I perform; karma=prescribed duties; chet=if; aham=I; sankarasya=of uncultured population; cha=and; kartā=responsible; syām=would be; upahanyām=would destroy; imāḥ=all these; prajāḥ=living entities"
+  },
+  {
+   "ref": "3.25",
+   "translation": "As the ignorant act out of attachment to action, O Bharata, so should the wise act without attachment, wishing for the welfare of the world.",
+   "translation2": "As the ignorant act, out of their fondness for action, so should the wise act without attachment, fixing their eyes, O Arjuna, only on the welfare of the world.",
+   "words": "saktāḥ=attached; karmaṇi=duties; avidvānsaḥ=the ignorant; yathā=as much as; kurvanti=act; bhārata=scion of Bharat (Arjun); kuryāt=should do; vidvān=the wise; tathā=thus; asaktaḥ=unattached; chikīrṣhuḥ=wishing; loka-saṅgraham=welfare of the world"
+  },
+  {
+   "ref": "3.26",
+   "translation": "Let no wise man unsettle the minds of ignorant people who are attached to action; he should engage them in all actions, himself fulfilling them with devotion.",
+   "translation2": "But a wise man should not disturb the minds of the ignorant, who are attached to action; let him perform his own actions in the right spirit, with concentration on Me, thus inspiring all others to do the same.",
+   "words": "na=not; buddhi-bhedam=discord in the intellects; janayet=should create; ajñānām=of the ignorant; karma-saṅginām=who are attached to fruitive actions; joṣhayet=should inspire (them) to perform; sarva=all; karmāṇi=prescribed; vidvān=the wise; yuktaḥ=enlightened; samācharan=performing properly"
+  },
+  {
+   "ref": "3.27",
+   "translation": "All actions are wrought in all cases by the qualities of Nature alone. He whose mind is deluded by egoism thinks, \"I am the doer.\"",
+   "translation2": "Action is the product of the qualities inherent in nature. It is only the ignorant man who, misled by personal egotism, says, \"I am the doer.\"",
+   "words": "prakṛiteḥ=of material nature; kriyamāṇāni=carried out; guṇaiḥ=by the three modes; karmāṇi=activities; sarvaśhaḥ=all kinds of; ahankāra-vimūḍha-ātmā=those who are bewildered by the ego and misidentify themselves with the body; kartā=the doer; aham=I; iti=thus; manyate=thinks"
+  },
+  {
+   "ref": "3.28",
+   "translation": "But he who knows the Truth, O mighty-armed Arjuna, about the divisions of the qualities and their functions, knowing that the Gunas, as senses, move amidst the Gunas, as the sense-objects, is not attached.",
+   "translation2": "But he, O Mighty One, who correctly understands the relationship between the Qualities and action, is not attached to the act, for he perceives that it is merely the action and reaction of the Qualities among themselves.",
+   "words": "tattva-vit=the knower of the Truth; tu=but; mahā-bāho=mighty-armed one; guṇa-karma=from guṇas and karma; vibhāgayoḥ=distinguish; guṇāḥ=modes of material nature in the shape of the senses, mind, etc; guṇeṣhu=modes of material nature in the shape of objects of perception; vartante=are engaged; iti=thus; matvā=knowing; na=never; sajjate=becomes attached"
+  },
+  {
+   "ref": "3.29",
+   "translation": "Those deluded by the qualities of Nature are attached to the functions of the qualities. The man of perfect knowledge should not unsettle the foolish one who is of imperfect knowledge.",
+   "translation2": "Those who do not understand the qualities are interested in the act; however, the wise man who knows the truth should not disturb the mind of those who do not.",
+   "words": "prakṛiteḥ=of material nature; guṇa=by the modes of material nature; sammūḍhāḥ=deluded; sajjante=become attached; guṇa-karmasu=to results of actions; tān=those; akṛitsna-vidaḥ=persons without knowledge; mandān=the ignorant; kṛitsna-vit=persons with knowledge; na vichālayet=should not unsettle"
+  },
+  {
+   "ref": "3.30",
+   "translation": "Renouncing all actions in Me, with the mind centered on the Self, free from hope and egoism, and from mental fever, fight thou.",
+   "translation2": "Therefore, surrender your actions to Me, keep your thoughts focused on the Absolute, free from selfishness and without expecting a reward, with a mind free from excitement, begin to fight.",
+   "words": "mayi=unto me; sarvāṇi=all; karmāṇi=works; sannyasya=renouncing completely; adhyātma-chetasā=with the thoughts resting on God; nirāśhīḥ=free from hankering for the results of the actions; nirmamaḥ=without ownership; bhūtvā=so being; yudhyasva=fight; vigata-jvaraḥ=without mental fever"
+  },
+  {
+   "ref": "3.31",
+   "translation": "Those who constantly practice this teaching of Mine with faith and without caviling, they too are freed from actions.",
+   "translation2": "Those who always act in accordance with My precepts, firmly in faith and without caviling, they too are freed from the bondage of action.",
+   "words": "ye=who; me=my; matam=teachings; idam=these; nityam=constantly; anutiṣhṭhanti=abide by; mānavāḥ=human beings; śhraddhā-vantaḥ=with profound faith; anasūyantaḥ=free from cavilling; muchyante=become free; te=those; api=also; karmabhiḥ=from the bondage of karma"
+  },
+  {
+   "ref": "3.32",
+   "translation": "But those who criticize My teaching and do not practice it, deprived of all knowledge and lacking discernment, know them to be doomed to destruction.",
+   "translation2": "But they who ridicule My word and do not observe it, are ignorant, devoid of wisdom, and blind. They seek only their own destruction.",
+   "words": "ye=those; tu=but; etat=this; abhyasūyantaḥ=cavilling; na=not; anutiṣhṭhanti=follow; me=my; matam=teachings; sarva-jñāna=in all types of knowledge; vimūḍhān=deluded; tān=they are; viddhi=know; naṣhṭān=ruined; achetasaḥ=devoid of discrimination"
+  },
+  {
+   "ref": "3.33",
+   "translation": "Even a wise man acts in accordance with his own nature; beings will follow their nature; what can restraint do?",
+   "translation2": "Even the wise man acts in accordance with his nature; indeed, all creatures act according to their natures. What is the use of compulsion then?",
+   "words": "sadṛiśham=accordingly; cheṣhṭate=act; svasyāḥ=by their own; prakṛiteḥ=modes of nature; jñāna-vān=the wise; api=even; prakṛitim=nature; yānti=follow; bhūtāni=all living beings; nigrahaḥ=repression; kim=what; kariṣhyati=will do"
+  },
+  {
+   "ref": "3.34",
+   "translation": "Attachment and aversion for the objects of the senses abide in the senses; let no one come under their sway; for, they are his enemies.",
+   "translation2": "The love and hate that are aroused by the objects of sense arise from Nature; do not yield to them, as they only obstruct the path.",
+   "words": "indriyasya=of the senses; indriyasya arthe=in the sense objects; rāga=attachment; dveṣhau=aversion; vyavasthitau=situated; tayoḥ=of them; na=never; vaśham=be controlled; āgachchhet=should become; tau=those; hi=certainly; asya=for him; paripanthinau=foes"
+  },
+  {
+   "ref": "3.35",
+   "translation": "Better is one's own duty, though devoid of merit, than the duty of another well discharged. Better is death in one's own duty; the duty of another is fraught with fear.",
+   "translation2": "It is better to do one's own duty, however lacking in merit, than to do that of another, even though efficiently. It is better to die doing one's own duty, for doing the duty of another is fraught with danger.",
+   "words": "śhreyān=better; swa-dharmaḥ=personal duty; viguṇaḥ=tinged with faults; para-dharmāt=than another’s prescribed duties; su-anuṣhṭhitāt=perfectly done; swa-dharme=in one’s personal duties; nidhanam=death; śhreyaḥ=better; para-dharmaḥ=duties prescribed for others; bhaya-āvahaḥ=fraught with fear"
+  },
+  {
+   "ref": "3.36",
+   "translation": "Arjuna said, \"But what compels man to commit sin, even against his wishes, O Varshneya (Krishna), as if constrained by force?\"",
+   "translation2": "Arjuna asked, \"My Lord, what is it that drives a person to sin, even against their will and as if by compulsion?\"",
+   "words": "arjunaḥ uvācha=Arjun said; atha=then; kena=by what; prayuktaḥ=impelled; ayam=one; pāpam=sins; charati=commit; pūruṣhaḥ=a person; anichchhan=unwillingly; api=even; vārṣhṇeya=he who belongs to the Vrishni clan, Shree Krishna; balāt=by force; iva=as if; niyojitaḥ=engaged"
+  },
+  {
+   "ref": "3.37",
+   "translation": "The Blessed Lord said, \"It is desire and it is anger, both of the quality of Rajas, all-devouring and all-sinful; know this as the foe here in this world.\"",
+   "translation2": "Lord Shri Krishna: It is desire, it is aversion, born of passion. Desire consumes and corrupts all things. It is the greatest enemy of man.",
+   "words": "śhri-bhagavān uvācha=the Supreme Lord said; kāmaḥ=desire; eṣhaḥ=this; krodhaḥ=wrath; eṣhaḥ=this; rajaḥ-guṇa=the mode of passion; samudbhavaḥ=born of; mahā-aśhanaḥ=all-devouring; mahā-pāpmā=greatly sinful; viddhi=know; enam=this; iha=in the material world; vairiṇam=the enemy"
+  },
+  {
+   "ref": "3.38",
+   "translation": "As fire is enveloped by smoke, as a mirror is covered by dust, and as an embryo is surrounded by the amniotic sac, so is this enveloped by that.",
+   "translation2": "As fire is shrouded by smoke, a mirror is covered by dust, and a child is enveloped by the womb, so is the universe enveloped in desire.",
+   "words": "dhūmena=by smoke; āvriyate=is covered; vahniḥ=fire; yathā=just as; ādarśhaḥ=mirror; malena=by dust; cha=also; yathā=just as; ulbena=by the womb; āvṛitaḥ=is covered; garbhaḥ=embryo; tathā=similarly; tena=by that (desire); idam=this; āvṛitam=is covered"
+  },
+  {
+   "ref": "3.39",
+   "translation": "O Arjuna, wisdom is enveloped by this constant enemy of the wise, in the form of desire, which is insatiable like fire.",
+   "translation2": "It is the wise man's constant enemy; it tarnishes the face of wisdom, being as insatiable as a flame of fire.",
+   "words": "āvṛitam=covered; jñānam=knowledge; etena=by this; jñāninaḥ=of the wise; nitya-vairiṇā=by the perpetual enemy; kāma-rūpeṇa=in the form of desires; kaunteya=Arjun the son of Kunti; duṣhpūreṇa=insatiable; analena=like fire; cha=and"
+  },
+  {
+   "ref": "3.40",
+   "translation": "The senses, the mind, and the intellect are said to be its seat; through these, it deludes the embodied one, veiling their wisdom.",
+   "translation2": "It works through the senses, the mind, and the reason; and with their help, it destroys wisdom and confounds the soul.",
+   "words": "indriyāṇi=the senses; manaḥ=the mind; buddhiḥ=the intellect; asya=of this; adhiṣhṭhānam=dwelling place; uchyate=are said to be; etaiḥ=by these; vimohayati=deludes; eṣhaḥ=this; jñānam=knowledge; āvṛitya=clouds; dehinam=the embodied soul"
+  },
+  {
+   "ref": "3.41",
+   "translation": "Therefore, O best of the Bharatas, control your senses first and then kill this sinful thing, which destroys knowledge and realization.",
+   "translation2": "Therefore, O Arjuna, first control your senses and then slay desire, for it is full of sin and is the destroyer of knowledge and wisdom.",
+   "words": "tasmāt=therefore; tvam=you; indriyāṇi=senses; ādau=in the very beginning; niyamya=having controlled; bharata-ṛiṣhabha=Arjun, the best of the Bharatas; pāpmānam=the sinful; prajahi=slay; hi=certainly; enam=this; jñāna=knowledge; vijñāna=realization; nāśhanam=the destroyer"
+  },
+  {
+   "ref": "3.42",
+   "translation": "They say that the senses are superior to the body; the mind is superior to the senses; the intellect is superior to the mind; and He (the Self) is superior even to the intellect.",
+   "translation2": "It is said that the senses are powerful; however, beyond the senses is the mind, beyond the mind is the intellect, and greater than the intellect is He.",
+   "words": "indriyāṇi=senses; parāṇi=superior; āhuḥ=are said; indriyebhyaḥ=than the senses; param=superior; manaḥ=the mind; manasaḥ=than the mind; tu=but; parā=superior; buddhiḥ=intellect; yaḥ=who; buddheḥ=than the intellect; parataḥ=more superior; tu=but; saḥ=that (soul)"
+  },
+  {
+   "ref": "3.43",
+   "translation": "Thus, knowing Him who is superior to the intellect and restraining the self by the Self, slay thou, O mighty-armed Arjuna, the enemy in the form of desire, hard to conquer.",
+   "translation2": "Thus, O Mighty-Armed One, knowing Him to be beyond the intellect, and with His help, subdue your personal ego and kill your enemy, Desire, even though it is extremely difficult.",
+   "words": "evam=thus; buddheḥ=than the intellect; param=superior; buddhvā=knowing; sanstabhya=subdue; ātmānam=the lower self (senses, mind, and intellect); ātmanā=by higher self (soul); jahi=kill; śhatrum=the enemy; mahā-bāho=mighty-armed one; kāma-rūpam=in the form of desire; durāsadam=formidable"
+  }
+ ]
+}

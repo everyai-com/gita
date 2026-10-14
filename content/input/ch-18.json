@@ -1,0 +1,636 @@
+{
+ "chapter": 18,
+ "name": "Mokṣha Sanyās Yog",
+ "title": "Yoga through the Perfection of Renunciation and Surrender",
+ "summary": "The eighteenth chapter of the Bhagavad Gita is \"Moksha Sanyas Yoga\". Arjuna requests the Lord to explain the difference between the two types of renunciations - sanyaas(renunciation of actions) and tyaag(renunciation of desires). Krishna explains that a sanyaasi is one who abandons family and society in order to practise spiritual discipline whereas a tyaagi is one who performs their duties without attachment to the rewards of their actions and dedicating them to the God. Krishna recommends the second kind of renunciation - tyaag. Krishna then gives a detailed analysis of the effects of the three modes of material nature. He declares that the highest path of spirituality is pure, unconditional loving service unto the Supreme Divine Personality, Krishna. If we always remember Him, keep chanting His name and dedicate all our actions unto Him, take refuge in Him and make Him our Supreme goal, then by His grace, we will surely overcome all obstacles and difficulties and be freed from this cycle of birth and death.",
+ "lessons": [
+  {
+   "id": "18-1",
+   "refs": [
+    "18.1",
+    "18.2",
+    "18.3",
+    "18.4",
+    "18.5"
+   ]
+  },
+  {
+   "id": "18-2",
+   "refs": [
+    "18.6",
+    "18.7",
+    "18.8",
+    "18.9",
+    "18.10"
+   ]
+  },
+  {
+   "id": "18-3",
+   "refs": [
+    "18.11",
+    "18.12",
+    "18.13",
+    "18.14",
+    "18.15"
+   ]
+  },
+  {
+   "id": "18-4",
+   "refs": [
+    "18.16",
+    "18.17",
+    "18.18",
+    "18.19",
+    "18.20"
+   ]
+  },
+  {
+   "id": "18-5",
+   "refs": [
+    "18.21",
+    "18.22",
+    "18.23",
+    "18.24"
+   ]
+  },
+  {
+   "id": "18-6",
+   "refs": [
+    "18.25",
+    "18.26",
+    "18.27",
+    "18.28",
+    "18.29"
+   ]
+  },
+  {
+   "id": "18-7",
+   "refs": [
+    "18.30",
+    "18.31",
+    "18.32",
+    "18.33",
+    "18.34"
+   ]
+  },
+  {
+   "id": "18-8",
+   "refs": [
+    "18.35",
+    "18.36",
+    "18.37",
+    "18.38",
+    "18.39"
+   ]
+  },
+  {
+   "id": "18-9",
+   "refs": [
+    "18.40",
+    "18.41",
+    "18.42",
+    "18.43",
+    "18.44"
+   ]
+  },
+  {
+   "id": "18-10",
+   "refs": [
+    "18.45",
+    "18.46",
+    "18.47",
+    "18.48",
+    "18.49"
+   ]
+  },
+  {
+   "id": "18-11",
+   "refs": [
+    "18.50",
+    "18.51",
+    "18.52",
+    "18.53",
+    "18.54"
+   ]
+  },
+  {
+   "id": "18-12",
+   "refs": [
+    "18.55",
+    "18.56",
+    "18.57",
+    "18.58"
+   ]
+  },
+  {
+   "id": "18-13",
+   "refs": [
+    "18.59",
+    "18.60",
+    "18.61",
+    "18.62",
+    "18.63"
+   ]
+  },
+  {
+   "id": "18-14",
+   "refs": [
+    "18.64",
+    "18.65",
+    "18.66",
+    "18.67",
+    "18.68"
+   ]
+  },
+  {
+   "id": "18-15",
+   "refs": [
+    "18.69",
+    "18.70",
+    "18.71",
+    "18.72",
+    "18.73"
+   ]
+  },
+  {
+   "id": "18-16",
+   "refs": [
+    "18.74",
+    "18.75",
+    "18.76",
+    "18.77",
+    "18.78"
+   ]
+  }
+ ],
+ "verses": [
+  {
+   "ref": "18.1",
+   "translation": "Arjuna said, \"O mighty-armed Hrishikesa, I desire to know the essence or truth of renunciation and abandonment severally, O slayer of Kesi.\"",
+   "translation2": "Arjuna asked, \"O Mighty One! I desire to know how relinquishment is distinguished from renunciation.",
+   "words": "arjunaḥ uvācha=Arjun said; sanyāsasya=of renunciation of actions; mahā-bāho=mighty-armed one; tattvam=the truth; ichchhāmi=I wish; veditum=to understand; tyāgasya=of renunciation of desires for enjoying the fruits of actions; cha=and; hṛiṣhīkeśha=Krishna, the Lord of the senses; pṛithak=distinctively; keśhī-niṣhūdana=Krishna, the killer of the Keshi demon"
+  },
+  {
+   "ref": "18.2",
+   "translation": "The Blessed Lord said, \"The sages understand sannyasa to be the renunciation of action with desire; the wise declare the abandonment of the fruits of all actions to be tyaga.\"",
+   "translation2": "Lord Shri Krishna replied: The sages say that renunciation is forgoing an action that springs from desire, and relinquishing is the surrender of its fruit.",
+   "words": "śhrī-bhagavān uvācha=the Supreme Divine Personality said; kāmyānām=desireful; karmaṇām=of actions; nyāsam=giving up; sanyāsam=renunciation of actions; kavayaḥ=the learned; viduḥ=to understand; sarva=all; karma-phala=fruits of actions; tyāgam=renunciation of desires for enjoying the fruits of actions; prāhuḥ=declare; tyāgam=renunciation of desires for enjoying the fruits of actions; vichakṣhaṇāḥ=the wise"
+  },
+  {
+   "ref": "18.3",
+   "translation": "Some philosophers declare that actions should be abandoned as evil; while others declare that acts of sacrifice, gift, and austerity should not be relinquished.",
+   "translation2": "Some philosophers say that all action is evil and should be abandoned, whereas others maintain that acts of sacrifice, benevolence, and austerity should not be given up.",
+   "words": "tyājyam=should be given up; doṣha-vat=as evil; iti=thus; eke=some; karma=actions; prāhuḥ=declare; manīṣhiṇaḥ=the learned; yajña=sacrifice; dāna=charity; tapaḥ=penance; karma=acts; na=never; tyājyam=should be abandoned; iti=thus; cha=and; apare=others"
+  },
+  {
+   "ref": "18.4",
+   "translation": "Hear from Me the conclusion or the final truth about this abandonment, O best of the Bharatas; abandonment, indeed, O best of men, has been declared to be of three kinds.",
+   "translation2": "O best of Indians! Listen to my judgment regarding this problem. It has a threefold aspect.",
+   "words": "niśhchayam=conclusion; śhṛiṇu=hear; me=my; tatra=there; tyāge=about renunciation of desires for enjoying the fruits of actions; bharata-sat-tama=best of the Bharatas; tyāgaḥ=renunciation of desires for enjoying the fruits of actions; hi=indeed; puruṣha-vyāghra=tiger amongst men; tri-vidhaḥ=of three kinds; samprakīrtitaḥ=declared"
+  },
+  {
+   "ref": "18.5",
+   "translation": "Acts of sacrifice, gift, and austerity should not be abandoned, but should be performed; for sacrifice, gift, and austerity are the purifiers of the wise.",
+   "translation2": "Acts of sacrifice, benevolence, and austerity should not be given up, but should be performed, for they purify the aspiring soul.",
+   "words": "yajña=sacrifice; dāna=charity; tapaḥ=penance; karma=actions; na=never; tyājyam=should be abandoned; kāryam eva=must certainly be performed; tat=that; yajñaḥ=sacrifice; dānam=charity; tapaḥ=penance; cha=and; eva=indeed; pāvanāni=purifying; manīṣhiṇām=for the wise"
+  },
+  {
+   "ref": "18.6",
+   "translation": "But even these actions should be performed, leaving aside attachment and the desire for rewards, O Arjuna; this is my certain and most assured conviction.",
+   "translation2": "But they should be done with detachment and without thought of reward. This is my final judgement.",
+   "words": "etāni=these; api tu=must certainly be; karmāṇi=activities; saṅgam=attachment; tyaktvā=giving up; phalāni=rewards; cha=and; kartavyāni=should be done as duty; iti=such; me=my; pārtha=Arjun, the son of Pritha; niśhchitam=definite; matam=opinion; uttamam=supreme"
+  },
+  {
+   "ref": "18.7",
+   "translation": "Verily, the renunciation of obligatory action is not proper; the abandonment of the same out of delusion is declared to be Tamasic.",
+   "translation2": "It is not right to give up actions which are obligatory; and if they are misunderstood, it is the result of sheer ignorance.",
+   "words": "niyatasya=of prescribed duties; tu=but; sanyāsaḥ=renunciation; karmaṇaḥ=actions; na=never; upapadyate=to be performed; mohāt=deluded; tasya=of that; parityāgaḥ=renunciation; tāmasaḥ=in the mode of ignorance; parikīrtitaḥ=has been declared"
+  },
+  {
+   "ref": "18.8",
+   "translation": "He who abandons action out of fear of bodily trouble (because it is painful), does not obtain the merit of renunciation by performing such Rajasic renunciation.",
+   "translation2": "To avoid an action out of fear of physical suffering, as it is likely to be painful, is to act out of passion, and the benefit of renunciation will not be gained.",
+   "words": "duḥkham=troublesome; iti=as; eva=indeed; yat=which; karma=duties; kāya=bodily; kleśha=discomfort; bhayāt=out of fear; tyajet=giving up; saḥ=they; kṛitvā=having done; rājasam=in the mode of passion; tyāgam=renunciation of desires for enjoying the fruits of actions; na=never; eva=certainly; tyāga=renunciation of desires for enjoying the fruits of actions; phalam=result; labhet=attain"
+  },
+  {
+   "ref": "18.9",
+   "translation": "Whatever obligatory action is done, O Arjuna, merely because it ought to be done, abandoning attachment and also the desire for reward, that renunciation is regarded as sattvic (pure).",
+   "translation2": "He who performs an obligatory action, believing it to be a duty that ought to be done, without any personal desire to do the act or to receive any return—such renunciation is pure.",
+   "words": "kāryam=as a duty; iti=as; eva=indeed; yat=which; karma niyatam=obligatory actions; kriyate=are performed; arjuna=Arjun; saṅgam=attachment; tyaktvā=relinquishing; phalam=reward; cha=and; eva=certainly; saḥ=such; tyāgaḥ=renunciation of desires for enjoying the fruits of actions; sāttvikaḥ=in the mode of goodness; mataḥ=considered"
+  },
+  {
+   "ref": "18.10",
+   "translation": "The man of renunciation, pervaded by purity, intelligent, and with his doubts cut asunder, does not hate an unpleasant task nor is he attached to a pleasant one.",
+   "translation2": "The wise man who has attained purity, whose doubts are resolved, who is filled with the spirit of self-abnegation, does not shy away from action due to its pain, nor does he crave it due to its pleasure.",
+   "words": "na=neither; dveṣhṭi=hate; akuśhalam=disagreeable; karma=work; kuśhale=to an agreeable; na=nor; anuṣhajjate=seek; tyāgī=one who renounces desires for enjoying the fruits of actions; sattva=in the mode of goodness; samāviṣhṭaḥ=endowed with; medhāvī=intelligent; chhinna-sanśhayaḥ=those who have no doubts"
+  },
+  {
+   "ref": "18.11",
+   "translation": "Indeed, it is not possible for an embodied being to completely abandon actions; however, he who relinquishes the rewards of actions is truly called a man of renunciation.",
+   "translation2": "But since those still in the body cannot entirely avoid action, in their case, the abandonment of the fruit of action is considered as complete renunciation.",
+   "words": "na=not; hi=indeed; deha-bhṛitā=for the embodied being; śhakyam=possible; tyaktum=to give up; karmāṇi=activities; aśheṣhataḥ=entirely; yaḥ=who; tu=but; karma-phala=fruits of actions; tyāgī=one who renounces all desires for enjoying the fruits of actions; saḥ=they; tyāgī=one who renounces all desires for enjoying the fruits of actions; iti=as; abhidhīyate=are said"
+  },
+  {
+   "ref": "18.12",
+   "translation": "The threefold fruit of action (evil, good, and mixed) accrues after death to those who do not abandon it, but never to those who do.",
+   "translation2": "For those who cannot renounce all desires, the fruit of action hereafter is threefold—good, evil, and partly good and partly evil. But for him who has renounced, there is none.",
+   "words": "aniṣhṭam=unpleasant; iṣhṭam=pleasant; miśhram=mixed; cha=and; tri-vidham=three-fold; karmaṇaḥ phalam=fruits of actions; bhavati=accrue; atyāginām=to those who are attached to persona reward; pretya=after death; na=not; tu=but; sanyāsinām=for the renouncers of actions; kvachit=ever"
+  },
+  {
+   "ref": "18.13",
+   "translation": "Learn from Me, O mighty-armed Arjuna, these five causes, as declared in the Sankhya system, for the accomplishment of all actions.",
+   "translation2": "I will now tell you, O Mighty Man, the five causes that must come together, according to the final decision of philosophy, for an action to be accomplished.",
+   "words": "pañcha=five; etāni=these; mahā-bāho=mighty-armed one; kāraṇāni=causes; nibodha=listen; me=from me; sānkhye=of Sānkya; kṛita-ante=stop reactions of karmas; proktāni=explains; siddhaye=for the accomplishment; sarva=all; karmaṇām=of karmas"
+  },
+  {
+   "ref": "18.14",
+   "translation": "The body, the doer, the various senses, the different functions of various kinds, and the presiding deity—the fifth.",
+   "translation2": "They have a body, a personality, physical organs, and manifold activities and destinies.",
+   "words": "adhiṣhṭhānam=the body; tathā=also; kartā=the doer (soul); karaṇam=senses; cha=and; pṛithak-vidham=various kinds; vividhāḥ=many; cha=and; pṛithak=distinct; cheṣhṭāḥ=efforts; daivam=Divine Providence; cha eva atra=these certainly are (causes); pañchamam=the fifth"
+  },
+  {
+   "ref": "18.15",
+   "translation": "Whatever action a person performs with their body, speech, and mind, whether right or wrong, these five are its causes.",
+   "translation2": "Whatever action a person performs, whether by muscular effort, speech, or thought, and whether it be right or wrong, these five are the essential causes.",
+   "words": "śharīra-vāk-manobhiḥ=with body, speech, or mind; yat=which; karma=action; prārabhate=performs; naraḥ=a person; nyāyyam=proper; vā=or; viparītam=improper; vā=or; pañcha=five; ete=these; tasya=their; hetavaḥ=factors"
+  },
+  {
+   "ref": "18.16",
+   "translation": "Now, such being the case, verily he who, owing to an untrained understanding, looks upon his Self, which is isolated, as the agent, he of perverted intelligence does not see.",
+   "translation2": "But the fool, who, due to his immature judgment, supposes that it is his own Self alone that acts, perverts the truth and does not see rightly.",
+   "words": "tatra=there; evam sati=in spite of this; kartāram=the doer; ātmānam=the soul; kevalam=only; tu=but; yaḥ=who; paśhyati=see; akṛita-buddhitvāt=with impure intellect; na=not; saḥ=they; paśhyati=see; durmatiḥ=foolish"
+  },
+  {
+   "ref": "18.17",
+   "translation": "He who is free from the egoistic notion, whose intelligence is not tainted by good or evil, though he slays these people, he does not slay, nor is he bound by the action.",
+   "translation2": "He who has no pride and whose intellect is unalloyed by attachment, even though he kills these people, he does not kill them, and his act does not bind him.",
+   "words": "yasya=whose; na ahankṛitaḥ=free from the ego of being the doer; bhāvaḥ=nature; buddhiḥ=intellect; yasya=whose; na lipyate=unattached; hatvā=slay; api=even; saḥ=they; imān=this; lokān=living beings; na=neither; hanti=kill; na=nor; nibadhyate=get bound"
+  },
+  {
+   "ref": "18.18",
+   "translation": "Knowledge, the knowable, and the knower form the threefold impulse for action; the organ, the action, and the agent form the threefold basis of action.",
+   "translation2": "Knowledge, the knower, and the object of knowledge are the three incentives to action; and the act, the actor, and the instrument are the threefold constituents.",
+   "words": "jñānam=knowledge; jñeyam=the object of knowledge; parijñātā=the knower; tri-vidhā=three factors; karma-chodanā=factors that induce action; karaṇam=the instrumens of action; karma=the act; kartā=the doer; iti=thus; tri-vidhaḥ=threefold; karma-saṅgrahaḥ=constituents of action"
+  },
+  {
+   "ref": "18.19",
+   "translation": "Knowledge, action, and actor are declared in the science of the Gunas (Sankhya philosophy) to be of three kinds only, according to the distinction of the Gunas. Of these, hear duly.",
+   "translation2": "The knowledge, the action, and the doer differ according to their qualities. Listen to this as well.",
+   "words": "jñānam=knowledge; karma=action; cha=and; kartā=doer; cha=also; tridhā=of three kinds; eva=certainly; guṇa-bhedataḥ=distinguished according to the three modes of material nature; prochyate=are declared; guṇa-saṅkhyāne=Sānkhya philosophy, which describes the modes of material nature; yathā-vat=as they are; śhṛiṇu=listen; tāni=them; api=also"
+  },
+  {
+   "ref": "18.20",
+   "translation": "That by which one sees the indestructible Reality in all beings, not separate in any of them—know that knowledge to be Sattvic.",
+   "translation2": "That knowledge which sees the One Indestructible in all beings, the One Indivisible in all separate lives, can be truly called Pure Knowledge.",
+   "words": "sarva-bhūteṣhu=within all living beings; yena=by which; ekam=one; bhāvam=nature; avyayam=imperishable; īkṣhate=one sees; avibhaktam=undivided; vibhakteṣhu=in diversity; tat=that; jñānam=knowledge; viddhi=understand; sāttvikam=in the mode of goodness"
+  },
+  {
+   "ref": "18.21",
+   "translation": "But that knowledge which sees in all beings various entities of distinct kinds as being distinct from one another, know thou that knowledge to be Rajasic.",
+   "translation2": "The knowledge that perceives the manifold existence in all beings as separate comes from passion.",
+   "words": "pṛithaktvena=unconnected; tu=however; yat=which; jñānam=knowledge; nānā-bhāvān=manifold entities; pṛithak-vidhān=of diversity; vetti=consider; sarveṣhu=in all; bhūteṣhu=living entities; tat=that; jñānam=knowledge; viddhi=know; rājasam=in the mode of passion"
+  },
+  {
+   "ref": "18.22",
+   "translation": "But that which clings to one single effect as if it were the whole, without reason, without any foundation in Truth, and is trivial—that is declared to be Tamasic.",
+   "translation2": "But that which clings blindly to one idea as if it were all, without logic, truth, or insight, has its origin in darkness.",
+   "words": "yat=which; tu=but; kṛitsna-vat=as if it encompasses the whole; ekasmin=in single; kārye=action; saktam=engrossed; ahaitukam=without a reason; atattva-artha-vat=not based on truth; alpam=fragmental; cha=and; tat=that; tāmasam=in the mode of ignorance; udāhṛitam=is said to be"
+  },
+  {
+   "ref": "18.23",
+   "translation": "An action that is ordained, free from attachment, done without love or hatred, and without desire for reward is declared to be Sattvic.",
+   "translation2": "An obligatory action done by one who is disinterested, who neither likes nor dislikes it, and gives no thought to the consequences that may follow, such an action is Pure.",
+   "words": "niyatam=in accordance with scriptures; saṅga-rahitam=free from attachment; arāga-dveṣhataḥ=free from attachment and aversion; kṛitam=done; aphala-prepsunā=without desire for rewards; karma=action; yat=which; tat=that; sāttvikam=in the mode of goodness; uchyate=is called"
+  },
+  {
+   "ref": "18.24",
+   "translation": "But that action which is done by one longing for the fulfillment of desires or gain with egotism or with much effort is declared to be Rajasic (passionate).",
+   "translation2": "But even though an action involves the most strenuous endeavor, yet if the doer is seeking to gratify their desires and is filled with personal vanity, it may be assumed to originate in passion.",
+   "words": "yat=which; tu=but; kāma-īpsunā=prompted by selfish desire; karma=action; sa-ahaṅkāreṇa=with pride; vā=or; punaḥ=again; kriyate=enacted; bahula-āyāsam=stressfully; tat=that; rājasam=in the nature of passion; udāhṛitam=is said to be"
+  },
+  {
+   "ref": "18.25",
+   "translation": "That action which is undertaken from delusion, without regard for the consequences, loss, injury, and one's own ability, is declared to be Tamasic (dark).",
+   "translation2": "An action undertaken through delusion, with no regard to the spiritual implications, the capacity of the doer, or the potential harm that may follow, is assumed to be a product of ignorance.",
+   "words": "anubandham=consequences; kṣhayam=loss; hinsām=injury; anapekṣhya=by disregarding; cha=and; pauruṣham=one’s own ability; mohāt=out of delusion; ārabhyate=is begun; karma=action; yat=which; tat=that; tāmasam=in the mode of ignorance; uchyate=is declared to be"
+  },
+  {
+   "ref": "18.26",
+   "translation": "An agent who is free from attachment, non-egoistic, endowed with firmness and enthusiasm, and unaffected by success or failure, is considered to be of a Sattvic (pure) nature.",
+   "translation2": "But when a person has no sentiment or ego, when they possess courage and confidence, not caring whether they succeed or fail, then their action arises from purity.",
+   "words": "mukta-saṅgaḥ=free from worldly attachment; anaham-vādī=free from ego; dhṛiti=strong resolve; utsāha=zeal; samanvitaḥ=endowed with; siddhi-asiddhyoḥ=in success and failure; nirvikāraḥ=unaffected; kartā=worker; sāttvikaḥ=in the mode of goodness; uchyate=is said to be"
+  },
+  {
+   "ref": "18.27",
+   "translation": "Passionate, desiring to obtain the reward of their actions, greedy, cruel, impure, moved by joy and sorrow, such an agent is said to be Rajasic.",
+   "translation2": "In one who is impulsive, greedy, looking for reward, violent, impure, and torn between joy and sorrow, it may be assumed that Passion is predominant.",
+   "words": "rāgī=craving; karma-phala=fruit of work; prepsuḥ=covet; lubdhaḥ=greedy; hinsā-ātmakaḥ=violent-natured; aśhuchiḥ=impure; harṣha-śhoka-anvitaḥ=moved by joy and sorrow; kartā=performer; rājasaḥ=in the mode of passion; parikīrtitaḥ=is declared"
+  },
+  {
+   "ref": "18.28",
+   "translation": "Unsteady, vulgar, inflexible, deceitful, malicious, lazy, despondent, and procrastinating—such an agent is called Tamasic.",
+   "translation2": "While he whose purpose is weak, who is low-minded, stubborn, dishonest, malicious, lazy, despondent, and procrastinating—he may be assumed to be in darkness.",
+   "words": "ayuktaḥ=undisciplined; prākṛitaḥ=vulgar; stabdhaḥ=obstinate; śhaṭhaḥ=cunning; naiṣhkṛitikaḥ=dishonest or vile; alasaḥ=slothful; viṣhādī=unhappy and morose; dīrgha-sūtrī=procrastinating; cha=and; kartā=performer; tāmasaḥ=in the mode of ignorance; uchyate=is said to be"
+  },
+  {
+   "ref": "18.29",
+   "translation": "Hear thou the threefold division of intellect and firmness, according to the Gunas, as I declare them fully and distinctly, O Arjuna.",
+   "translation2": "Reason and conviction are threefold, according to the quality that is dominant. I will explain them fully and separately, O Arjuna!",
+   "words": "buddheḥ=of intellect; bhedam=the distinctions; dhṛiteḥ=of determination; cha=and; eva=certainly; guṇataḥ tri-vidham=according to the three modes of material nature; śhṛiṇu=hear; prochyamānam=described; aśheṣheṇa=in detail; pṛithaktvena=distinctly; dhanañjaya=conqueror of wealth, Arjun"
+  },
+  {
+   "ref": "18.30",
+   "translation": "The intellect which knows the path of work and renunciation, what should be done and what should not be done, fear and fearlessness, bondage and liberation—that intellect is Sattvic (pure), O Arjuna.",
+   "translation2": "That intellect which understands the creation and dissolution of life, what actions should be done and what not, which discriminates between fear and fearlessness, bondage and deliverance, is Pure.",
+   "words": "pravṛittim=activities; cha=and; nivṛittim=renuncation from action; cha=and; kārya=proper action; akārye=improper action; bhaya=fear; abhaye=without fear; bandham=what is binding; mokṣham=what is liberating; cha=and; yā=which; vetti=understands; buddhiḥ=intellect; sā=that; pārtha=son of Pritha; sāttvikī=in the nature of goodness"
+  },
+  {
+   "ref": "18.31",
+   "translation": "That by which one wrongly understands dharma and adharma, and also what ought to be done and what ought not to be done—that intellect, O Arjuna, is rajasic (passionate).",
+   "translation2": "The intellect that does not understand what is right and wrong, and what should be done and not done, is under the sway of Passion.",
+   "words": "yayā=by which; dharmam=righteousness; adharmam=unrighteousness; cha=and; kāryam=right conduct; cha=and; akāryam=wrong conduct; eva=certainly; cha=and; ayathā-vat=confused; prajānāti=distinguish; buddhiḥ=intellect; sā=that; pārtha=Arjun, the son of Pritha; rājasī=in the mode of passion"
+  },
+  {
+   "ref": "18.32",
+   "translation": "That intellect, O Arjuna, which is enveloped in darkness and sees Adharma as Dharma and all things perverted, is Tamasic (dark).",
+   "translation2": "And that which, shrouded in Ignorance, thinks wrong to be right, and sees everything perversely, O Arjuna, that intellect is ruled by Darkness.",
+   "words": "adharmam=irreligion; dharmam=religion; iti=thus; yā=which; manyate=imagines; tamasa-āvṛitā=shrouded in darkness; sarva-arthān=all things; viparītān=opposite; cha=and; buddhiḥ=intellect; sā=that; pārtha=Arjun, the son of Pritha; tāmasī=of the nature of ignorance"
+  },
+  {
+   "ref": "18.33",
+   "translation": "The unwavering firmness, through which Yoga restrains the functions of the mind, life-force, and senses—that firmness, O Arjuna, is Sattvic (pure).",
+   "translation2": "The conviction and steady concentration with which the mind, the energy, and the senses are controlled—O Arjuna!—are the result of purity.",
+   "words": "dhṛityā=by determining; yayā=which; dhārayate=sustains; manaḥ=of the mind; prāṇa=life-airs; indriya=senses; kriyāḥ=activities; yogena=through Yog; avyabhichāriṇyā=with steadfastness; dhṛitiḥ=determination; sā=that; pārtha=Arjun, the son of Pritha; sāttvikī=in the mode of goodness"
+  },
+  {
+   "ref": "18.34",
+   "translation": "But that, O Arjuna, by which one holds fast to Dharma (duty), enjoyment of pleasures, and earning of wealth, on account of attachment and desire for reward—that firmness, O Arjuna, is Rajasic (passionate).",
+   "translation2": "The conviction that always holds fast to rituals, self-interest, and wealth for the sake of what they may bring forth comes from passion.",
+   "words": "yayā=by which; tu=but; dharma-kāma-arthān=duty, pleasures, and wealth; dhṛityā=through steadfast will; dhārayate=holds; arjuna=Arjun; prasaṅgena=due of attachment; phala-ākāṅkṣhī=desire for rewards; dhṛitiḥ=determination; sā=that; pārtha=Arjun, the son of Pritha; rājasī=in the mode of passion"
+  },
+  {
+   "ref": "18.35",
+   "translation": "That firmness, O Arjuna, by which a stupid man does not abandon sleep, fear, grief, despair, and conceit, is Tamasic.",
+   "translation2": "And that which clings perversely to false idealism, fear, grief, despair, and vanity is the product of ignorance.",
+   "words": "yayā=in which; svapnam=dreaming; bhayam=fearing; śhokam=grieving; viṣhādam=despair; madam=conceit; eva=indeed; cha=and; na=not; vimuñchati=give up; durmedhā=unintelligent; dhṛitiḥ=resolve; sā=that; pārtha=Arjun, the son of Pritha; tāmasī=in the mode of ignorance"
+  },
+  {
+   "ref": "18.36",
+   "translation": "And now, O Arjuna, hear from Me of the threefold pleasure, in which one rejoices through practice and surely comes to the end of pain.",
+   "translation2": "Hear further the three kinds of pleasure. That which increases day by day delivers one from misery.",
+   "words": "sukham=happiness; tu=but; idānīm=now; tri-vidham=of three kinds; śhṛiṇu=hear; me=from me; bharata-ṛiṣhabha=Arjun, the best of the Bharatas; abhyāsāt=by practice; ramate=rejoices; yatra=in which; duḥkha-antam=end of all suffering; cha=and; nigachchhati=reaches\n yat—which; tat=that; agre=at first; viṣham iva=like poison; pariṇāme=in the end; amṛita-upamam=like nectar; tat=that; sukham=happiness; sāttvikam=in the mode of goodness; proktam=is said to be; ātma-buddhi=situated in self-knowledge; prasāda-jam=generated by the pure intellect"
+  },
+  {
+   "ref": "18.37",
+   "translation": "That which is like poison at first but in the end like nectar—that happiness is declared to be sattvic, born of the purity of one's own mind due to self-realization.",
+   "translation2": "Which at first seems like poison but afterwards acts like nectar—that pleasure is pure, for it is born of wisdom.",
+   "words": "yat=that   which; tat=that; agre=in the beginning; viṣam   iva=like    poison; pariṇāme=at the end; amṛta=nectar; upamam=compared to; tat=that; sukham=happiness; sāttvikam=in    the mode    of  goodness; proktam=is   said; ātma=self; buddhi=intelligence; prasāda-jam=satisfactory."
+  },
+  {
+   "ref": "18.38",
+   "translation": "That happiness which arises from the contact of the senses with the objects, which is initially like nectar but eventually like poison, is said to be Rajasic.",
+   "translation2": "That which, at first, is like nectar, as the senses revel in their objects, but in the end acts like poison—that pleasure arises from Passion.",
+   "words": "viṣhaya=with the sense objects; indriya=the senses; sanyogāt=from the contact; yat=which; tat=that; agre=at first; amṛita-upamam=like nectar; pariṇāme=at the end; viṣham iva=like poison; tat=that; sukham=happiness; rājasam=in the mode of passion; smṛitam=is said to be"
+  },
+  {
+   "ref": "18.39",
+   "translation": "That happiness which at first, as well as in the end, deludes the self, and which arises from sleep, indolence, and heedlessness—that is declared to be Tamasic.",
+   "translation2": "While the pleasure that drugs the senses from start to finish, which springs from indolence, lethargy, and folly—that pleasure flows from Ignorance.",
+   "words": "yat=which; agre=from beginning; cha=and; anubandhe=to end; cha=and; sukham=happiness; mohanam=illusory; ātmanaḥ=of the self; nidrā=sleep; ālasya=indolence; pramāda=negligence; uttham=derived from; tat=that; tāmasam=in the mode of ignorance; udāhṛitam=is said to be"
+  },
+  {
+   "ref": "18.40",
+   "translation": "There is no being on earth or in heaven among the gods that is liberated from the three qualities born of Nature.",
+   "translation2": "There is nothing anywhere on earth or in the higher worlds that is free from the three Qualities, for they are born of Nature.",
+   "words": "na=no; tat=that; asti=exists; pṛithivyām=on earth; vā=or; divi=the higher celestial abodes; deveṣhu=amongst the celestial gods; vā=or; punaḥ=again; sattvam=existence; prakṛiti-jaiḥ=born of material nature; muktam=liberated; yat=that; ebhiḥ=from the influence of these; syāt=is; tribhiḥ=three; guṇaiḥ=modes of material nature"
+  },
+  {
+   "ref": "18.41",
+   "translation": "Of Brahmanas, Kshatriyas, Vaisyas, and Sudras, O Arjuna, the duties are distributed according to the qualities born of their own nature.",
+   "translation2": "O Arjuna! The duties of spiritual teachers, the soldiers, the traders, and the servants have all been fixed according to the dominant quality in their nature.",
+   "words": "brāhmaṇa=of the priestly class; kṣhatriya=the warrior and administrative class; viśhām=the mercantile and farming class; śhūdrāṇām=of the worker class; cha=and; parantapa=Arjun, subduer of the enemies; karmāṇi=duties; pravibhaktāni=distributed; svabhāva-prabhavaiḥ-guṇaiḥ=work based on one’s nature and guṇas"
+  },
+  {
+   "ref": "18.42",
+   "translation": "Serenity, self-restraint, austerity, purity, forgiveness, and uprightness, as well as knowledge, realization, and belief in God, are the duties of Brahmanas, born of their own nature.",
+   "translation2": "Serenity, self-restraint, austerity, purity, forgiveness, uprightness, knowledge, wisdom, and faith in God—these constitute the duty of a spiritual teacher.",
+   "words": "śhamaḥ=tranquility; damaḥ=restraint; tapaḥ=austerity; śhaucham=purity; kṣhāntiḥ=patience; ārjavam=integrity; eva=certainly; cha=and; jñānam=knowledge; vijñānam=wisdom; āstikyam=belief in a hereafter; brahma=of the priestly class; karma=work; svabhāva-jam=born of one’s intrinsic qualities"
+  },
+  {
+   "ref": "18.43",
+   "translation": "Prowess, splendor, firmness, dexterity, and not fleeing from battle, generosity, and lordliness are the duties of the Kshatriyas, born of their own nature.",
+   "translation2": "Valor, glory, firmness, skill, generosity, steadiness in battle, and the ability to rule—these constitute the duty of a soldier. They flow from his own nature.",
+   "words": "śhauryam=valor; tejaḥ=strength; dhṛitiḥ=fortitude; dākṣhyam yuddhe=skill in weaponry; cha=and; api=also; apalāyanam=not fleeing; dānam=large-heartedness; īśhvara=leadership; bhāvaḥ=qualities; cha=and; kṣhātram=of the warrior and administrative class; karma=work; svabhāva-jam=born of one’s intrinsic qualities"
+  },
+  {
+   "ref": "18.44",
+   "translation": "Agriculture, cattle-rearing, and trade are the duties of the Vaisya (merchant), born of their own nature; and service is the duty of the Sudra (servant-class), born of their own nature.",
+   "translation2": "Agriculture, the protection of cows, and trade are the duties of a trader, in accordance with his nature. The duty of a servant is to serve, which also agrees with his nature.",
+   "words": "kṛiṣhi=agriculture; gau-rakṣhya=dairy farming; vāṇijyam=commerce; vaiśhya=of the mercantile and farming class; karma=work; svabhāva-jam=born of one’s intrinsic qualities; paricharyā=serving through work; ātmakam=natural; karma=duty; śhūdrasya=of the worker class; api=and; svabhāva-jam=born of one’s intrinsic qualities"
+  },
+  {
+   "ref": "18.45",
+   "translation": "Each person devoted to their own duty attains perfection. How they attain perfection while being engaged in their own duty, hear now.",
+   "translation2": "Perfection is attained when one diligently attends to their duty. Listen, and I will tell you how it is attained by one who always minds their own duty.",
+   "words": "sve sve=respectively; karmaṇi=work; abhirataḥ=fulfilling; sansiddhim=perfection; labhate=achieve; naraḥ=a person; sva-karma=to one’s own prescribed duty; nirataḥ=engaged; siddhim=perfection; yathā=as; vindati=attains; tat=that; śhṛiṇu=hear"
+  },
+  {
+   "ref": "18.46",
+   "translation": "He from whom all the beings have evolved and by whom all this is pervaded, worshipping Him with his own duty, one attains perfection.",
+   "translation2": "One reaches perfection by dedicating their actions to God, Who is the source of all being and fills everything.",
+   "words": "yataḥ=from whom; pravṛittiḥ=have come into being; bhūtānām=of all living entities; yena=by whom; sarvam=all; idam=this; tatam=pervaded; sva-karmaṇā=by one’s natural occupation; tam=him; abhyarchya=by worshipping; siddhim=perfection; vindati=attains; mānavaḥ=a person"
+  },
+  {
+   "ref": "18.47",
+   "translation": "Better is one's own duty, even if it is destitute of merits, than the duty of another well performed. He who does the duty ordained by his own nature incurs no sin.",
+   "translation2": "It is better to do one's own duty, however defective it may be, than to follow the duty of another, however well one may perform it. He who does his duty as his own nature reveals it, never commits a sin.",
+   "words": "śhreyān=better; swa-dharmaḥ=one’s own prescribed occupational duty; viguṇaḥ=imperfectly done; para-dharmāt=than another’s dharma; su-anuṣhṭhitāt=perfectly done; svabhāva-niyatam=according to one’s innate nature; karma=duty; kurvan=by performing; na āpnoti=does not incur; kilbiṣham=sin"
+  },
+  {
+   "ref": "18.48",
+   "translation": "One should not, O Arjuna, abandon the duty to which one is born, though it may be faulty; for, all undertakings are enveloped by evil, just as fire is by smoke.",
+   "translation2": "The duty that falls to one's lot of its own accord should not be abandoned, though it may have its defects. All acts are marred by defects, just as fire is obscured by smoke.",
+   "words": "saha-jam=born of one’s nature; karma=duty; kaunteya=Arjun, the son of Kunti; sa-doṣham=with defects; api=even if; na tyajet=one should not abandon; sarva-ārambhāḥ=all endeavors; hi=indeed; doṣheṇa=with evil; dhūmena=with smoke; agniḥ=fire; iva=as; āvṛitāḥ=veiled"
+  },
+  {
+   "ref": "18.49",
+   "translation": "He whose intellect is unattached everywhere, who has subdued his self, from whom desire has fled, he attains the supreme state of freedom from action through renunciation.",
+   "translation2": "He whose mind is entirely detached, who has conquered himself, and whose desires have vanished, reaches that stage of perfect freedom through his renunciation, where action completes itself and leaves no seed.",
+   "words": "asakta-buddhiḥ=those whose intellect is unattached; sarvatra=everywhere; jita-ātmā=who have mastered their mind; vigata-spṛihaḥ=free from desires; naiṣhkarmya-siddhim=state of actionlessness; paramām=highest; sanyāsena=by the practice of renunciation; adhigachchhati=attain"
+  },
+  {
+   "ref": "18.50",
+   "translation": "Learn from Me, O Arjuna, in brief how one who has attained perfection reaches Brahman—the Eternal, that supreme state of knowledge.",
+   "translation2": "I will now state briefly how one who has reached perfection finds the Eternal Spirit, the state of Supreme Wisdom.",
+   "words": "siddhim=perfection; prāptaḥ=attained; yathā=how; brahma=Brahman; tathā=also; āpnoti=attain; nibodha=hear; me=from me; samāsena=briefly; eva=indeed; kaunteya=Arjun, the son of Kunti; niṣhṭhā=firmly fixed; jñānasya=of knowledge; yā=which; parā=transcendental"
+  },
+  {
+   "ref": "18.51",
+   "translation": "Endowed with a pure intellect, controlling the self through firmness, relinquishing sound and other objects and abandoning attraction and hatred.",
+   "translation2": "Guided always by pure reason, bravely restraining himself, renouncing the objects of sense and giving up attachment and hatred; he attains peace.",
+   "words": "buddhyā=intellect; viśhuddhayā=purified; yuktaḥ=endowed with; dhṛityā=by determination; ātmānam=the intellect; niyamya=restraining; cha=and; śhabda-ādīn viṣhayān=sound and other objects of the senses; tyaktvā=abandoning; rāga-dveṣhau=attachment and aversion; vyudasya=casting aside; cha=and"
+  },
+  {
+   "ref": "18.52",
+   "translation": "Dwelling in solitude, eating sparingly, with speech, body, and mind subdued, always engaged in meditation and concentration, and resorting to dispassion.",
+   "translation2": "Enjoying solitude, being abstemious, having his body, mind, and speech under perfect control, and being absorbed in meditation, he becomes free—always filled with the spirit of renunciation.",
+   "words": "vivikta-sevī=relishing solitude; laghu-āśhī=eating light; yata=controls; vāk=speech; kāya=body; mānasaḥ=and mind; dhyāna-yoga-paraḥ=engaged in meditation; nityam=always; vairāgyam=dispassion; samupāśhritaḥ=having taken shelter of"
+  },
+  {
+   "ref": "18.53",
+   "translation": "Having abandoned egoism, strength, arrogance, desire, anger, and covetousness, and being free from the notion of 'mine' and peaceful, he is fit for becoming Brahman.",
+   "translation2": "Having abandoned selfishness, power, arrogance, anger, and desire, possessing nothing of his own, and having attained peace, he is fit to join the Eternal Spirit.",
+   "words": "ahankāram=egotism; balam=violence; darpam=arrogance; kāmam=desire; krodham=anger; parigraham=selfishness; vimuchya=being freed from; nirmamaḥ=without possessiveness of property; śhāntaḥ=peaceful; brahma-bhūyāya=union with Brahman; kalpate=is fit"
+  },
+  {
+   "ref": "18.54",
+   "translation": "Becoming Brahman, serene in the Self, he neither grieves nor desires; he is the same to all beings, and obtains supreme devotion to Me.",
+   "translation2": "When he unites with the Eternal and his soul knows the bliss of the Self, he feels no desire or regret, he regards all beings equally, and enjoys the blessing of supreme devotion to Me.",
+   "words": "brahma-bhūtaḥ=one situated in Brahman; prasanna-ātmā=mentally serene; na=neither; śhochati=grieving; na=nor; kāṅkṣhati=desiring; samaḥ=equitably disposed; sarveṣhu=toward all; bhūteṣhu=living beings; mat-bhaktim=devotion to me; labhate=attains; parām=supreme"
+  },
+  {
+   "ref": "18.55",
+   "translation": "By devotion, he knows Me in truth, who and what I am; then, having known Me in truth, he immediately enters into the Supreme.",
+   "translation2": "By such devotion, he sees Me, who I am and what I am; and thus realizing the truth, he enters into My kingdom.",
+   "words": "bhaktyā=by loving devotion; mām=me; abhijānāti=one comes to know; yāvān=as much as; yaḥ cha asmi=as I am; tattvataḥ=in truth; tataḥ=then; mām=me; tattvataḥ=in truth; jñātvā=having known; viśhate=enters; tat-anantaram=thereafter"
+  },
+  {
+   "ref": "18.56",
+   "translation": "Having taken refuge in Me and doing all actions, by My grace he obtains the eternal, indestructible state of being.",
+   "translation2": "Relying on Me in all his actions and doing them for My sake, he attains, by My grace, eternal and unchangeable life.",
+   "words": "sarva=all; karmāṇi=actions; api=though; sadā=always; kurvāṇaḥ=performing; mat-vyapāśhrayaḥ=take full refuge in me; mat-prasādāt=by my grace; avāpnoti=attain; śhāśhvatam=the eternal; padam=abode; avyayam=imperishable"
+  },
+  {
+   "ref": "18.57",
+   "translation": "Mentally renouncing all actions in Me, having Me as the highest goal, and resorting to the yoga of discrimination, do thou ever fix thy mind on Me.",
+   "translation2": "Surrender your actions to Me, live in Me, focus your intellect on Me, and always think of Me.",
+   "words": "chetasā=by consciousness; sarva-karmāṇi=every activity; mayi=to me; sannyasya=dedicating; mat-paraḥ=having me as the supreme goal; buddhi-yogam=having the intellect united with God; upāśhritya=taking shelter of; mat-chittaḥ=consciousness absorbed in me; satatam=always; bhava=be"
+  },
+  {
+   "ref": "18.58",
+   "translation": "Fixing your mind on Me, you shall, by My grace, overcome all obstacles; but if you will not hear Me due to egoism, you shall perish.",
+   "translation2": "Fix your mind on Me, and by My grace you will overcome the obstacles in your path. But if, misled by pride, you do not listen, then you will indeed be lost.",
+   "words": "mat-chittaḥ=by always remembering me; sarva=all; durgāṇi=obstacles; mat-prasādāt=by my grace; tariṣhyasi=you shall overcome; atha=but; chet=if; tvam=you; ahankārāt=due to pride; na śhroṣhyasi=do not listen; vinaṅkṣhyasi=you will perish"
+  },
+  {
+   "ref": "18.59",
+   "translation": "If, filled with egoism, thou thinkest, \"I will not fight,\" then thy resolve is vain; nature will compel thee.",
+   "translation2": "If you in your vanity think of avoiding this fight, your will shall not be fulfilled, for Nature herself will compel you.",
+   "words": "yat=if; ahankāram=motivated by pride; āśhritya=taking shelter; na yotsye=I shall not fight; iti=thus; manyase=you think; mithyā eṣhaḥ=this is all false; vyavasāyaḥ=determination; te=your; prakṛitiḥ=material nature; tvām=you; niyokṣhyati=will engage"
+  },
+  {
+   "ref": "18.60",
+   "translation": "O Arjuna, bound by your own Karma (action) born of your own nature, that which from delusion you wish not to do, even that you shall do helplessly.",
+   "translation2": "O Arjuna! Your duty binds you. It has arisen from your own nature, and that which you do not desire to do in your delusion, you will do that very thing. You are helpless.",
+   "words": "swabhāva-jena=born of one’s own material nature; kaunteya=Arjun, the son of Kunti; nibaddhaḥ=bound; svena=by your own; karmaṇā=actions; kartum=to do; na=not; ichchhasi=you wish; yat=which; mohāt=out of delusion; kariṣhyasi=you will do; avaśhaḥ=helplessly; api=even though; tat=that"
+  },
+  {
+   "ref": "18.61",
+   "translation": "The Lord dwells in the hearts of all beings, O Arjuna, causing all beings, by His illusory power, to revolve as if mounted on a machine.",
+   "translation2": "God dwells in the hearts of all beings, O Arjuna! He causes them to revolve, as it were, on a wheel, by His mystic power.",
+   "words": "īśhvaraḥ=the Supreme Lord; sarva-bhūtānām=in all living being; hṛit-deśhe=in the hearts; arjuna=Arjun; tiṣhṭhati=dwells; bhrāmayan=causing to wander; sarva-bhūtāni=all living beings; yantra ārūḍhani=seated on a machine; māyayā=made of the material energy"
+  },
+  {
+   "ref": "18.62",
+   "translation": "Fly to Him for refuge with all your being, O Arjuna; by His grace you will obtain supreme peace and the eternal abode.",
+   "translation2": "With all your strength, fly to Him and surrender yourself, and by His grace you will attain Supreme Peace and reach the Eternal Home.",
+   "words": "tam=unto him; eva=only; śharaṇam gachchha=surrender; sarva-bhāvena=whole-heartedly; bhārata=Arjun, the son of Bharat; tat-prasādāt=by his grace; parām=supreme; śhāntim=peace; sthānam=the abode; prāpsyasi=you will attain; śhāśhvatam=eternal"
+  },
+  {
+   "ref": "18.63",
+   "translation": "Thus, wisdom more secret than secrecy itself has been declared to you by me. Reflect on it fully, then act as you wish.",
+   "translation2": "Thus, I have revealed to you the truth, the mystery of mysteries. Having thought it over, you are free to act as you wish.",
+   "words": "iti=thus; te=to you; jñānam=knowledge; ākhyātam=explained; guhyāt=than secret knowledge; guhya-taram=still more secret knowledge; mayā=by me; vimṛiśhya=pondering; etat=on this; aśheṣheṇa=completely; yathā=as; ichchhasi=you wish; tathā=so; kuru=do"
+  },
+  {
+   "ref": "18.64",
+   "translation": "Hear again My supreme word, most secret of all; for you are dearly beloved of Me, I will tell you what is good.",
+   "translation2": "Listen to My last word once more, the deepest secret of all; you are My beloved, you are My friend, and I speak for your welfare.",
+   "words": "sarva-guhya-tamam=the most confidential of all; bhūyaḥ=again; śhṛiṇu=hear; me=by me; paramam=supreme; vachaḥ=instruction; iṣhṭaḥ asi=you are dear; me=to me; dṛiḍham=very; iti=thus; tataḥ=because; vakṣhyāmi=I am speaking; te=for your; hitam=benefit"
+  },
+  {
+   "ref": "18.65",
+   "translation": "Fix your mind on Me, be devoted to Me, sacrifice to Me, bow down to Me. You will come to Me; I truly promise you this, for you are dear to Me.",
+   "translation2": "Dedicate yourself to Me, worship Me, sacrifice all for Me, prostrate yourself before Me, and you will surely come to Me. I truly pledge to you; you are My beloved.",
+   "words": "mat-manāḥ=thinking of me; bhava=be; mat-bhaktaḥ=my devotee; mat-yājī=worship me; mām=to me; namaskuru=offer obeisance; mām=to me; eva=certainly; eṣhyasi=you will come; satyam=truly; te=to you; pratijāne=I promise; priyaḥ=dear; asi=you are; me=to me"
+  },
+  {
+   "ref": "18.66",
+   "translation": "Abandon all duties and take refuge in Me alone; I will liberate you from all sins; do not grieve.",
+   "translation2": "Give up your earthly duties, surrender yourself to Me alone. Do not be anxious; I will absolve you from all your sins.",
+   "words": "sarva-dharmān=all varieties of dharmas; parityajya=abandoning; mām=unto me; ekam=only; śharaṇam=take refuge; vraja=take; aham=I; tvām=you; sarva=all; pāpebhyaḥ=from sinful reactions; mokṣhayiṣhyāmi=shall liberate; mā=do not; śhuchaḥ=fear"
+  },
+  {
+   "ref": "18.67",
+   "translation": "Never speak this to one who is devoid of austerities or devotion, who does not render service, who does not desire to listen, or who cavils at Me.",
+   "translation2": "Do not speak this to one who has not practiced austerities, or to one who does not love, or who will not listen, or who mocks.",
+   "words": "idam=this; te=by you; na=never; atapaskāya=to those who are not austere; na=never; abhaktāya=to those who are not devoted; kadāchana=at any time; na=never; cha=also; aśhuśhrūṣhave=to those who are averse to listening (to spiritual topics); vāchyam=to be spoken; na=never; cha=also; mām=toward me; yaḥ=who; abhyasūyati=those who are envious"
+  },
+  {
+   "ref": "18.68",
+   "translation": "He who, with supreme devotion to Me, teaches this supreme secret to My devotees, shall undoubtedly come to Me.",
+   "translation2": "But he who teaches this great secret to My devotees, his is the highest devotion, and he shall surely come to Me.",
+   "words": "yaḥ=who; idam=this; paramam=most; guhyam=confidential knowledge; mat-bhakteṣhu=amongst my devotees; abhidhāsyati=teaches; bhaktim=greatest act of love; mayi=to me; parām=transcendental; kṛitvā=doing; mām=to me; eva=certainly; eṣhyati=comes; asanśhayaḥ=without doubt"
+  },
+  {
+   "ref": "18.69",
+   "translation": "There is no one among men who does service dearer to Me, nor shall there be anyone on earth dearer to Me than him.",
+   "translation2": "There is no one among men who can perform a service dearer to Me than this, nor is there any man on earth more beloved by Me than him.",
+   "words": "na=no; cha=and; tasmāt=than them; manuṣhyeṣhu=amongst human beings; kaśhchit=anyone; me=to me; priya-kṛit-tamaḥ=more dear; bhavitā=will be; na=never; cha=and; me=to me; tasmāt=than them; anyaḥ=another; priya-taraḥ=dearer; bhuvi=on this earth"
+  },
+  {
+   "ref": "18.70",
+   "translation": "And he who studies this sacred dialogue of ours, by him I shall have been worshipped through the sacrifice of wisdom; such is my conviction.",
+   "translation2": "He who will study this spiritual discourse of ours, I assure you, they shall thereby worship Me at the altar of Wisdom.",
+   "words": "adhyeṣhyate=study; cha=and; yaḥ=who; imam=this; dharmyam=sacred; saṁvādam=dialogue; āvayoḥ=of ours; jñāna=of knowledge; yajñena-tena=through the sacrifice of knowledge; aham=I; iṣhṭaḥ=worshipped; syām=shall be; iti=such; me=my; matiḥ=opinion"
+  },
+  {
+   "ref": "18.71",
+   "translation": "Also, the man who hears this, full of faith and free from malice, shall attain to the happy worlds of those of righteous deeds, and be liberated.",
+   "translation2": "Yes, he who listens to it with faith and without doubt, even he, freed from evil, will rise to the worlds which the virtuous attain through righteous deeds.",
+   "words": "śhraddhā-vān=faithful; anasūyaḥ=without envy; cha=and; śhṛiṇuyāt=listen; api=certainly; yaḥ=who; naraḥ=a person; saḥ=that person; api=also; muktaḥ=liberated; śhubhān=the auspicious; lokān=abodes; prāpnuyāt=attain; puṇya-karmaṇām=of the pious"
+  },
+  {
+   "ref": "18.72",
+   "translation": "Has this been heard, O Arjuna, with one-pointed focus? Has the delusion of your ignorance been destroyed, O Dhananjaya?",
+   "translation2": "O Arjuna, have you listened attentively to My words? Has your ignorance and delusion gone?",
+   "words": "kachchit=whether; etat=this; śhrutam=heard; pārtha=Arjun, the son of Pritha; tvayā=by you; eka-agreṇa chetasā=with a concentrated mind; kachchit=whether; ajñāna=ignorance; sammohaḥ=delusion; pranaṣhṭaḥ=destroyed; te=your; dhanañjaya=Arjun, conqueror of wealth"
+  },
+  {
+   "ref": "18.73",
+   "translation": "Arjuna said, \"My delusion has been destroyed, for I have gained my knowledge (memory) through Your grace, O Krishna. I am now free from doubts. I will act according to Your word.\"",
+   "translation2": "Arjuna replied: \"My Lord! O Immutable One! My delusion has fled. By Your Grace, O Changeless One, the light has dawned. My doubts have been dispelled, and I stand before You ready to do Your will.\"",
+   "words": "arjunaḥ uvācha=Arjun said; naṣhṭaḥ=dispelled; mohaḥ=illusion; smṛitiḥ=memory; labdhā=regained; tvat-prasādāt=by your grace; mayā=by me; achyuta=Shree Krishna, the infallible one; sthitaḥ=situated; asmi=I am; gata-sandehaḥ=free from doubts; kariṣhye=I shall act; vachanam=instructions; tava=your"
+  },
+  {
+   "ref": "18.74",
+   "translation": "Sanjaya said, Thus, I have heard this wonderful dialogue between Krishna and the high-souled Arjuna, which causes one's hair to stand on end.",
+   "translation2": "Sanjaya said: \"I heard this rare, wonderful, and soul-stirring discourse between Lord Shri Krishna and the great-souled Arjuna.",
+   "words": "sañjayaḥ uvācha=Sanjay said; iti=thus; aham=I; vāsudevasya=of Shree Krishna; pārthasya=Arjun; cha=and; mahā-ātmanaḥ=the noble hearted soul; saṁvādam=conversation; imam=this; aśhrauṣham=have heard; adbhutam=wonderful; roma-harṣhaṇam=which causes the hair to stand on end"
+  },
+  {
+   "ref": "18.75",
+   "translation": "Through the grace of Vyasa, I have heard this supreme and most secret Yoga, directly from Krishna, the Lord of Yoga, Himself declaring it.",
+   "translation2": "Through the blessing of the sage Vyasa, I heard this secret and noble science from the lips of its Master, Lord Shri Krishna.",
+   "words": "vyāsa-prasādāt=by the grace of Ved Vyas; śhrutavān=have heard; etat=this; guhyam=secret; aham=I; param=supreme; yogam=Yog; yoga-īśhvarāt=from the Lod of Yog; kṛiṣhṇāt=from Shree Krishna; sākṣhāt=directly; kathayataḥ=speaking; svayam=himself"
+  },
+  {
+   "ref": "18.76",
+   "translation": "O King, remembering this wonderful and holy dialogue between Krishna and Arjuna, I continually rejoice.",
+   "translation2": "O King! The more I think of that marvelous and holy discourse, the more I lose myself in joy.",
+   "words": "rājan=King; sansmṛitya saṁsmṛitya=repeatedly recalling; saṁvādam=dialogue; imam=this; adbhutam=astonishing; keśhava-arjunayoḥ=between Lord Shree Krishna and Arjun; puṇyam=pious; hṛiṣhyāmi=I rejoice; cha=and; muhuḥ muhuḥ=repeatedly"
+  },
+  {
+   "ref": "18.77",
+   "translation": "And, remembering again and again that most wonderful form of Hari, I am filled with great wonder, O King; and I rejoice again and again.",
+   "translation2": "As I recall again and again the exceeding beauty of the Lord, I am filled with amazement and joy.",
+   "words": "tat=that; cha=and; sansmṛitya saṁsmṛitya=remembering repeatedly; rūpam=cosmic form; ati=most; adbhutam=wonderful; hareḥ=of Lord Krishna; vismayaḥ=astonishment; me=my; mahān=great; rājan=King; hṛiṣhyāmi=I am thrilled with joy; cha=and; punaḥ punaḥ=over and over again"
+  },
+  {
+   "ref": "18.78",
+   "translation": "Wherever Krishna, the Lord of Yoga, is; and wherever Arjuna, the wielder of the bow, is; there is prosperity, victory, happiness, and a firm policy; this is my conviction.",
+   "translation2": "Wherever Lord Shri Krishna, the Prince of Wisdom, and Arjuna, the Great Archer, are, I am certain that good fortune, victory, happiness, and righteousness will follow.",
+   "words": "yatra=wherever; yoga-īśhvaraḥ=Shree Krishna, the Lord of Yog; kṛiṣhṇaḥ=Shree Krishna; yatra=wherever; pārthaḥ=Arjun, the son of Pritha; dhanuḥ-dharaḥ=the supreme archer; tatra=there; śhrīḥ=opulence; vijayaḥ=victory; bhūtiḥ=prosperity; dhruvā=unending; nītiḥ=righteousness; matiḥ mama=my opinion"
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+node_modules
+dist
+.DS_Store
+.wrangler
+# iOS build output and generated web copy (recreated by `npx cap sync ios`)
+ios/App/build
+ios/App/Pods
+ios/App/App/public
+ios/App/App/capacitor.config.json
+ios/App/App/config.xml

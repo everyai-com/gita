@@ -1,0 +1,224 @@
+{
+ "chapter": 14,
+ "name": "Guṇa Traya Vibhāg Yog",
+ "title": "Yoga through Understanding the Three Modes of Material Nature",
+ "summary": "The fourteenth chapter of the Bhagavad Gita is \"Gunatraya Vibhaga Yoga\". In this chapter, Krishna reveals the three gunas (modes) of the material nature - goodness, passion and ignorance which everything in the material existence is influenced by. He further explains the essential characteristics of each of these modes, their cause and how they influence a living entity affected by them. He then reveals the various characteristics of the persons who have gone beyond these gunas. The chapter ends with Krishna reminding us of the power of pure devotion to God and how attachment to God can help us transcend these gunas.",
+ "lessons": [
+  {
+   "id": "14-1",
+   "refs": [
+    "14.1",
+    "14.2",
+    "14.3",
+    "14.4",
+    "14.5"
+   ]
+  },
+  {
+   "id": "14-2",
+   "refs": [
+    "14.6",
+    "14.7",
+    "14.8",
+    "14.9",
+    "14.10",
+    "14.11"
+   ]
+  },
+  {
+   "id": "14-3",
+   "refs": [
+    "14.12",
+    "14.13",
+    "14.14",
+    "14.15",
+    "14.16"
+   ]
+  },
+  {
+   "id": "14-4",
+   "refs": [
+    "14.17",
+    "14.18",
+    "14.19",
+    "14.20",
+    "14.21",
+    "14.22"
+   ]
+  },
+  {
+   "id": "14-5",
+   "refs": [
+    "14.23",
+    "14.24",
+    "14.25",
+    "14.26",
+    "14.27"
+   ]
+  }
+ ],
+ "verses": [
+  {
+   "ref": "14.1",
+   "translation": "The Blessed Lord said, \"I will again declare to thee that supreme knowledge, the best of all knowledge, having known which all the sages have gone to supreme perfection after this life.\"",
+   "translation2": "Lord Shri Krishna continued: Now I will reveal to you the wisdom that is beyond knowledge, by attaining which the sages have reached perfection.",
+   "words": "śhrī-bhagavān uvācha=the Divine Lord said; param=supreme; bhūyaḥ=again; pravakṣhyāmi=I shall explain; jñānānām=of all knowledge; jñānam uttamam=the supreme wisdom; yat=which; jñātvā=knowing; munayaḥ=saints; sarve=all; parām=highest; siddhim=perfection; itaḥ=through this; gatāḥ=attained"
+  },
+  {
+   "ref": "14.2",
+   "translation": "Those who, having taken refuge in this knowledge, have attained unity with Me, are neither born at the time of creation nor disturbed at the time of dissolution.",
+   "translation2": "Dwelling in wisdom and realizing My divinity, they are not reborn when the universe is recreated at the beginning of every cycle, nor are they affected when it is dissolved.",
+   "words": "idam=this; jñānam=wisdom; upāśhritya=take refuge in; mama=mine; sādharmyam=of similar nature; āgatāḥ=having attained; sarge=at the time of creation; api=even; na=not; upajāyante=are born; pralaye=at the time of dissolution; na-vyathanti=they will not experience misery; cha=and"
+  },
+  {
+   "ref": "14.3",
+   "translation": "My womb is the great Brahma; in it I place the germ; thence, O Arjuna, is the birth of all beings.",
+   "translation2": "The eternal cosmos is My womb, in which I plant the seed from which all beings are born, O prince!",
+   "words": "mama=my; yoniḥ=womb; mahat brahma=the total material substance, prakṛiti; tasmin=in that; garbham=womb; dadhāmi=impregnate; aham=I; sambhavaḥ=birth; sarva-bhūtānām=of all living beings; tataḥ=thereby; bhavati=becomes; bhārata=Arjun, the son of Bharat"
+  },
+  {
+   "ref": "14.4",
+   "translation": "Whatever forms are produced, O Arjuna, in any womb whatsoever, the great Brahma is their womb, and I am the seed-giving father.",
+   "translation2": "O illustrious son of Kunti! Through whatever wombs men are born, it is the Spirit itself that conceives, and I am their father.",
+   "words": "sarva=all; yoniṣhu=species of life; kaunteya=Arjun, the son of Kunti; mūrtayaḥ=forms; sambhavanti=are produced; yāḥ=which; tāsām=of all of them; brahma-mahat=great material nature; yoniḥ=womb; aham=I; bīja-pradaḥ=seed-giving; pitā=Father"
+  },
+  {
+   "ref": "14.5",
+   "translation": "These qualities, O Arjuna, born of Nature, bind fast in the body of the embodied, the indestructible: purity, passion, and inertia.",
+   "translation2": "Purity, passion, and ignorance are the qualities that the law of nature brings forth. They fetter the free spirit in all beings.",
+   "words": "sattvam=mode of goodness; rajaḥ=mode of passion; tamaḥ=mode of ignorance; iti=thus; guṇāḥ=modes; prakṛiti=material nature; sambhavāḥ=consists of; nibadhnanti=bind; mahā-bāho=mighty-armed one; dehe=in the body; dehinam=the embodied soul; avyayam=eternal"
+  },
+  {
+   "ref": "14.6",
+   "translation": "Of these, sattva, which is luminous and healthy due to its stainlessness, binds one by attachment to happiness and knowledge, O sinless one.",
+   "translation2": "O Sinless One! Of these, purity, being luminous, strong, and invulnerable, binds one with its yearning for happiness and illumination.",
+   "words": "tatra=amongst these; sattvam=mode of goodness; nirmalatvāt=being purest; prakāśhakam=illuminating; anāmayam=healthy and full of well-being; sukha=happiness; saṅgena=attachment; badhnāti=binds; jñāna=knowledge; saṅgena=attachment; cha=also; anagha=Arjun, the sinless one"
+  },
+  {
+   "ref": "14.7",
+   "translation": "Know, O Arjuna, that Rajas is of the nature of passion, the source of thirst and attachment; it binds fast the embodied one by attachment to action.",
+   "translation2": "Passion, engendered by thirst for pleasure and attachment, binds the soul through its fondness for activities.",
+   "words": "rajaḥ=mode of passion; rāga-ātmakam=of the nature of passion; viddhi=know; tṛiṣhṇā=desires; saṅga=association; samudbhavam=arises from; tat=that; nibadhnāti=binds; kaunteya=Arjun, the son of Kunti; karma-saṅgena=through attachment to fruitive actions; dehinam=the embodied soul"
+  },
+  {
+   "ref": "14.8",
+   "translation": "But know thou Tamas to be born of ignorance, deluding all embodied beings; it binds fast, O Arjuna, through heedlessness, indolence, and sleep.",
+   "translation2": "But Ignorance, the product of darkness, stupefies the senses of all embodied beings, binding them with chains of folly, indolence, and lethargy.",
+   "words": "tamaḥ=mode of ignorance; tu=but; ajñāna-jam=born of ignorance; viddhi=know; mohanam=illusion; sarva-dehinām=for all the embodied souls; pramāda=negligence; ālasya=laziness; nidrābhiḥ=and sleep; tat=that; nibadhnāti=binds; bhārata=Arjun, the son of Bharat"
+  },
+  {
+   "ref": "14.9",
+   "translation": "Sattva attaches to happiness, Rajas to action, O Arjuna, while Tamas, verily shrouding knowledge, attaches to heedlessness.",
+   "translation2": "Purity brings happiness, passion brings commotion, and ignorance, which obscures wisdom, leads to a life of failure.",
+   "words": "sattvam=mode of goodness; sukhe=to happiness; sañjayati=binds; rajaḥ=mode of passion; karmaṇi=toward actions; bhārata=Arjun, the son of Bharat; jñānam=wisdom; āvṛitya=clouds; tu=but; tamaḥ=mode of ignorance; pramāde=to delusion; sañjayati=binds; uta=indeed"
+  },
+  {
+   "ref": "14.10",
+   "translation": "Now, O Arjuna, Sattva prevails, having overpowered Rajas and Tamas; then Rajas, having overpowered Sattva and Tamas; and then Tamas, having overpowered Sattva and Rajas.",
+   "translation2": "O Prince! Purity prevails when passion and ignorance are overcome; passion, when purity and ignorance are overcome; and ignorance when it is overcome by purity and passion.",
+   "words": "rajaḥ=mode of passion; tamaḥ=mode of ignorance; cha=and; abhibhūya=prevails; sattvam=mode of goodness; bhavati=becomes; bhārata=Arjun, the son of Bharat; rajaḥ=mode of passion; sattvam=mode of goodness; tamaḥ=mode of ignorance; cha=and; eva=indeed; tamaḥ=mode of ignorance; sattvam=mode of goodness; rajaḥ=mode of passion; tathā=also"
+  },
+  {
+   "ref": "14.11",
+   "translation": "When the wisdom-light shines through every gate of this body, then it may be known that Sattva is predominant.",
+   "translation2": "When the light of knowledge gleams forth from all the gates of the body, then be sure that purity prevails.",
+   "words": "sarva=all; dvāreṣhu=through the gates; dehe=body; asmin=in this; prakāśhaḥ=illumination; upajāyate=manifest; jñānam=knowledge; yadā=when; tadā=then; vidyāt=know; vivṛiddham=predominates; sattvam=mode of goodness; iti=thus; uta=certainly"
+  },
+  {
+   "ref": "14.12",
+   "translation": "Greed, activity, the undertaking of actions, restlessness, and longing—these arise when Rajas is predominant, O Arjuna.",
+   "translation2": "O best of Indians! Avarice, the impulse to act, and the beginning of action itself are all due to the dominance of passion.",
+   "words": "lobhaḥ=greed; pravṛittiḥ=activity; ārambhaḥ=exertion; karmaṇām=for fruitive actions; aśhamaḥ=restlessness; spṛihā=craving; rajasi=of the mode of passion; etāni=these; jāyante=develop; vivṛiddhe=when predominates; bharata-ṛiṣhabha=the best of the Bharatas, Arjun"
+  },
+  {
+   "ref": "14.13",
+   "translation": "Darkness, inertia, carelessness, and delusion—these arise when Tamas is predominant, O Arjuna.",
+   "translation2": "Darkness, stagnation, folly, and infatuation are the results of the dominance of ignorance, O joy of the Kuru clan!",
+   "words": "aprakāśhaḥ=nescience; apravṛittiḥ=inertia; cha=and; pramādaḥ=negligence; mohaḥ=delusion; eva=indeed; cha=also; tamasi=mode of ignorance; etāni=these; jāyante=manifest; vivṛiddhe=when dominates; kuru-nandana=the joy of the Kurus, Arjun"
+  },
+  {
+   "ref": "14.14",
+   "translation": "If the embodied one meets death when Sattva is predominant, then they attain the spotless worlds of the knowers of the Highest.",
+   "translation2": "When purity prevails, the soul, upon leaving the body, passes on to the pure regions where those who know the Highest reside.",
+   "words": "yadā=when; sattve=in the mode of goodness; pravṛiddhe=when premodinates; tu=indeed; pralayam=death; yāti=reach; deha-bhṛit=the embodied; tadā=then; uttama-vidām=of the learned; lokān=abodes; amalān=pure; pratipadyate=attains"
+  },
+  {
+   "ref": "14.15",
+   "translation": "Meeting death in Rajas, he is born among those who are attached to action; and dying in Tamas, he is born in the womb of the thoughtless.",
+   "translation2": "When passion prevails, the soul is reborn among those who love activity; when ignorance rules, it enters the wombs of the ignorant.",
+   "words": "rajasi=in the mode of passion; pralayam=death; gatvā=attaining; karma-saṅgiṣhu=among people driven by work; jāyate=are born; tathā=likewise; pralīnaḥ=dying; tamasi=in the mode of ignorance; mūḍha-yoniṣhu=in the animal kingdom; jāyate=takes birth"
+  },
+  {
+   "ref": "14.16",
+   "translation": "They say that the fruit of good action is Sattvic and pure; indeed, the fruit of Rajas is pain, and the fruit of Tamas is ignorance.",
+   "translation2": "They say the fruit of a meritorious action is spotless and pure; the outcome of passion is misery, and of ignorance, darkness.",
+   "words": "karmaṇaḥ=of action; su-kṛitasya=pure; āhuḥ=is said; sāttvikam=mode of goodness; nirmalam=pure; phalam=result; rajasaḥ=mode of passion; tu=indeed; phalam=result; duḥkham=pain; ajñānam=ignorance; tamasaḥ=mode of ignorance; phalam=result"
+  },
+  {
+   "ref": "14.17",
+   "translation": "From Sattva arises knowledge, and greed from Rajas; heedlessness and delusion arise from Tamas, and also ignorance.",
+   "translation2": "Purity engenders wisdom, passion avarice, and ignorance folly, infatuation, and darkness.",
+   "words": "sattvāt=from the mode of goodness; sañjāyate=arises; jñānam=knowledge; rajasaḥ=from the mode of passion; lobhaḥ=greed; eva=indeed; cha=and; pramāda=negligence; mohau=delusion; tamasaḥ=from the mode of ignorance; bhavataḥ=arise; ajñānam=ignorance; eva=indeed; cha=and"
+  },
+  {
+   "ref": "14.18",
+   "translation": "Those seated in Sattva ascend; those of Rajasic nature dwell in the middle; and those of Tamasic nature, abiding in the function of the lowest Guna, descend.",
+   "translation2": "When purity is in the ascendant, the man evolves; when passion is in the ascendant, he neither evolves nor degenerates; when ignorance is in the ascendant, he is lost.",
+   "words": "ūrdhvam=upward; gachchhanti=rise; sattva-sthāḥ=those situated in the mode of goodness; madhye=in the middle; tiṣhṭhanti=stay; rājasāḥ=those in the mode of passion; jaghanya=abominable; guṇa=quality; vṛitti-sthāḥ=engaged in activities; adhaḥ=down; gachchhanti=go; tāmasāḥ=those in the mode of ignorance"
+  },
+  {
+   "ref": "14.19",
+   "translation": "When the seer beholds no agent other than the Gunas and knows that which is higher than them, he attains to My Being.",
+   "translation2": "As soon as one understands that it is only the qualities that act and nothing else, and perceives that which is beyond, they attain My divine nature.",
+   "words": "na=no; anyam=other; guṇebhyaḥ=of the guṇas; kartāram=agents of action; yadā=when; draṣhṭā=the seer; anupaśhyati=see; guṇebhyaḥ=to the modes of nature; cha=and; param=transcendental; vetti=know; mat-bhāvam=my divine nature; saḥ=they; adhigachchhati=attain"
+  },
+  {
+   "ref": "14.20",
+   "translation": "The embodied one, having crossed beyond these three Gunas from which the body is evolved, is freed from birth, death, decay, and pain, and attains immortality.",
+   "translation2": "When the soul transcends the Qualities, which are the real cause of physical existence, then, freed from birth and death, from old age and misery, he drinks the nectar of immortality.",
+   "words": "guṇān=the three modes of material nature; etān=these; atītya=transcending; trīn=three; dehī=the embodied; deha=body; samudbhavān=produced of; janma=birth; mṛityu=death; jarā=old age; duḥkhaiḥ=misery; vimuktaḥ=freed from; amṛitam=immortality; aśhnute=attains"
+  },
+  {
+   "ref": "14.21",
+   "translation": "Arjuna said, \"What are the marks of one who has transcended the three qualities, O Lord? What is their conduct, and how do they go beyond these three qualities?\"",
+   "translation2": "Arjuna asked, \"My Lord, how can one recognize someone who has transcended the qualities? How do they act and live beyond them?\"",
+   "words": "arjunaḥ uvācha=Arjun inquired; kaiḥ=by what; liṅgaiḥ=symptoms; trīn=three; guṇān=modes of material nature; etān=these; atītaḥ=having transcended; bhavati=is; prabho=Lord; kim=what; āchāraḥ=conduct; katham=how; cha=and; etān=these; trīn=three; guṇān=modes of material nature; ativartate=transcend"
+  },
+  {
+   "ref": "14.22",
+   "translation": "The Blessed Lord said, \"When light, activity, and delusion are present, he does not hate them, nor does he long for them when they are absent.",
+   "translation2": "Lord Shri Krishna replied: O Prince! He who does not shun the quality that is present and does not long for that which is absent;",
+   "words": "śhrī-bhagavān uvācha=the Supreme Divine Personality said; prakāśham=illumination; cha=and; pravṛittim=activity; cha=and; moham=delusion; eva=even; cha=and; pāṇḍava=Arjun, the son of Pandu; na dveṣhṭi=do not hate; sampravṛittāni=when present; na=nor; nivṛittāni=when absent; kāṅkṣhati=longs"
+  },
+  {
+   "ref": "14.23",
+   "translation": "He who, seated like one unconcerned, is not moved by the dualities, and who, knowing that the dualities are active, is self-centered and does not move.",
+   "translation2": "He who maintains an attitude of indifference, who is not disturbed by the qualities, who realizes that it is only they who act, and remains calm;",
+   "words": "udāsīna-vat=neutral; āsīnaḥ=situated; guṇaiḥ=to the modes of material nature; yaḥ=who; na=not; vichālyate=are disturbed; guṇāḥ=modes of material nature; vartante=act; iti-evam=knowing it in this way; yaḥ=who; avatiṣhṭhati=established in the self; na=not; iṅgate=wavering"
+  },
+  {
+   "ref": "14.24",
+   "translation": "Who is the same in pleasure and pain, who dwells in the Self, to whom a clod of earth, a stone, and gold are all alike, who is the same to the dear and the unfriendly, who is firm, and to whom censure and praise are one and the same.",
+   "translation2": "Who accepts pain and pleasure as they come, is centered in their Self, to whom a piece of clay, stone, or gold are all the same, who neither likes nor dislikes, who is steadfast, indifferent alike to praise or censure;",
+   "words": "sama=alike; duḥkha=distress; sukhaḥ=happiness; sva-sthaḥ=established in the self; sama=equally; loṣhṭa=a clod; aśhma=stone; kāñchanaḥ=gold; tulya=of equal value; priya=pleasant; apriyaḥ=unpleasant; dhīraḥ=steady; tulya=the same; nindā=blame; ātma-sanstutiḥ=praise"
+  },
+  {
+   "ref": "14.25",
+   "translation": "Who is the same in honor and dishonor, the same to friend and foe, abandoning all undertakings, he is said to have transcended the dualities.",
+   "translation2": "Who looks equally upon honor and dishonor, loves friends and foes alike, and abandons all initiative, such is he who transcends the qualities.",
+   "words": "māna=honor; apamānayoḥ=dishonor; tulyaḥ=equal; tulyaḥ=equal; mitra=friend; ari=foe; pakṣhayoḥ=to the parties; sarva=all; ārambha=enterprises; parityāgī=renouncer; guṇa-atītaḥ=risen above the three modes of material nature; saḥ=they; uchyate=are said to have"
+  },
+  {
+   "ref": "14.26",
+   "translation": "And he who serves Me with unwavering devotion, he, crossing beyond the dualities, is fit for becoming Brahman.",
+   "translation2": "And he who serves Me alone, with unwavering devotion, shall overcome the Qualities and become one with the Eternal.",
+   "words": "mām=me; cha=only; yaḥ=who; avyabhichāreṇa=unalloyed; bhakti-yogena=through devotion; sevate=serve; saḥ=they; guṇān=the three modes of material nature; samatītya=rise above; etān=these; brahma-bhūyāya=level of Brahman; kalpate=comes to"
+  },
+  {
+   "ref": "14.27",
+   "translation": "For I am the abode of Brahman, the immortal, immutable, and everlasting Dharma, and absolute bliss.",
+   "translation2": "For I am the home of the spirit, the continual source of immortality, eternal righteousness, and infinite joy.",
+   "words": "brahmaṇaḥ=of Brahman; hi=only; pratiṣhṭhā=the basis; aham=I; amṛitasya=of the immortal; avyayasya=of the imperishable; cha=and; śhāśhvatasya=of the eternal; cha=and; dharmasya=of the dharma; sukhasya=of bliss; aikāntikasya=unending; cha=and"
+  }
+ ]
+}

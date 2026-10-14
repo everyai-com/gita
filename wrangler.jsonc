@@ -1,0 +1,9 @@
+{
+  // Static hosting for the web app plus /privacy and /support (used by the App Store listing).
+  "name": "gita",
+  "compatibility_date": "2025-09-01",
+  "assets": {
+    "directory": "./dist",
+    "html_handling": "auto-trailing-slash"
+  }
+}

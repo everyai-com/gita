@@ -49,8 +49,12 @@ python3 -I scripts/build-data.py <folder with verse.json, translation.json, chap
 
 The script also repairs legacy Devanagari typing errors in the source.
 English translations: Swami Sivananda ("Clear") and Shri Purohit Swami ("Poetic").
-The Hindi translation and chapter summaries are original to this app, in `content/hi/ch-XX.json`, translated from the public-domain Sivananda English. Merge them after `build-data.py` with `python3 -I scripts/apply-hindi.py`.
+The Hindi translation, chapter summaries (`content/hi/ch-XX.json`) and word-by-word meanings (`content/wm/ch-XX.json`) are original to this app, the Hindi translated from the public-domain Sivananda English. Merge them after `build-data.py` with `python3 -I scripts/apply-hindi.py`.
 Chapter themes, takeaways and the Essentials path are original content in `src/content.ts`.
+
+## Sound effects
+
+Short UI sounds (tap, select, right/wrong answer, temple bell for the lamp and lesson complete) are CC0 sounds by Kenney from the [soundcn](https://github.com/kapishdima/soundcn) registry, embedded in `src/sounds.ts` and played by `src/sound.ts`. They follow the haptics in `tap()`, respect the silent switch, and can be turned off in reading settings.
 
 ## Design
 

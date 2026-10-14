@@ -106,7 +106,7 @@ function Reasons({ gita, reasons, onNext }: { gita: Gita; reasons: string[]; onN
   const last = REASONS.find((r) => r.topic === reasons[reasons.length - 1]);
   const v = last ? gita.get(last.ref) : undefined;
   const toggle = (t: string) => {
-    tap();
+    tap("light", "select");
     setProfile({ reasons: reasons.includes(t) ? reasons.filter((x) => x !== t) : [...reasons, t].slice(-3) });
   };
   return (
@@ -321,7 +321,7 @@ function Sankalpa({ minutes }: { minutes: number }) {
       setHeld(p);
       if (p >= 1) {
         setLit(true);
-        tap("success");
+        tap("success", "bell");
         // Let the lit lamp breathe for a moment before leaving onboarding.
         setTimeout(() => {
           go(profile.level === "deep" ? "lesson/1-1" : "essentials/1");

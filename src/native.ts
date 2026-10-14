@@ -4,11 +4,17 @@ import { Haptics, ImpactStyle, NotificationType } from "@capacitor/haptics";
 import { LocalNotifications } from "@capacitor/local-notifications";
 import { Share } from "@capacitor/share";
 import { StatusBar, Style } from "@capacitor/status-bar";
+import { playSound } from "./sound";
+import type { SoundName } from "./sounds";
 
 /** Thin bridge: native iOS features when running in the app, web fallbacks otherwise. */
 export const isNative = () => Capacitor.isNativePlatform();
 
-export async function tap(kind: "light" | "success" | "warning" = "light") {
+const SOUND_FOR = { light: "tap", success: "correct", warning: "wrong" } as const;
+
+/** Haptic plus its sound effect; pass `sound` to use a different one (e.g. the bell). */
+export async function tap(kind: "light" | "success" | "warning" = "light", sound: SoundName = SOUND_FOR[kind]) {
+  playSound(sound);
   if (!isNative()) return;
   try {
     if (kind === "light") await Haptics.impact({ style: ImpactStyle.Light });

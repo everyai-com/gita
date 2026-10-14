@@ -13,6 +13,7 @@ export type Settings = {
   dailyGoal: 1 | 2 | 3; // lessons per day
   showSimple: boolean; // "in simple words" under every verse
   reminder: "morning" | "evening" | "off";
+  sounds: boolean; // UI sound effects
 };
 
 export type JournalEntry = { id: string; at: string; prompt: string; text: string; lessonId?: string; ref?: string };
@@ -37,7 +38,7 @@ const KEY = "gita.v1";
 
 const DEFAULT: State = {
   onboarded: false,
-  settings: { lang: "en", translation: "en", showSanskrit: true, showTranslit: true, textSize: 1, theme: "system", dailyGoal: 1, showSimple: true, reminder: "morning" },
+  settings: { lang: "en", translation: "en", showSanskrit: true, showTranslit: true, textSize: 1, theme: "system", dailyGoal: 1, showSimple: true, reminder: "morning", sounds: true },
   learned: {},
   lessons: {},
   essentials: [],
@@ -98,6 +99,8 @@ export async function restoreFromDevice() {
     // Native storage unavailable: localStorage still holds progress.
   }
 }
+
+export const getSettings = () => state.settings;
 
 export function useStore(): State {
   return useSyncExternalStore(

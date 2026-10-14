@@ -26,3 +26,16 @@ for ch in gita["chapters"]:
 
 data_path.write_text(json.dumps(gita, ensure_ascii=False, separators=(",", ":")))
 print(f"Applied original Hindi to {len(gita['verses'])} verses and {len(gita['chapters'])} chapters.")
+
+# Word-by-word meanings: keep the Sanskrit word list, use the app's own glosses (content/wm).
+for ch in gita["chapters"]:
+    n = int(ch["n"])
+    src = json.loads((root / f"content/wm/ch-{n:02d}.json").read_text())["verses"]
+    for v in (v for v in gita["verses"] if int(v["c"]) == n):
+        glosses = src.get(str(v["v"]), [])
+        if len(glosses) != len(v["wm"]) or not all(g.strip() for g in glosses):
+            raise SystemExit(f"{n}.{v['v']}: expected {len(v['wm'])} glosses, got {len(glosses)}")
+        v["wm"] = [[w, g.strip()] for (w, _), g in zip(v["wm"], glosses)]
+
+data_path.write_text(json.dumps(gita, ensure_ascii=False, separators=(",", ":")))
+print("Applied original word meanings.")

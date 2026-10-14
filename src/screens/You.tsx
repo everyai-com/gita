@@ -187,11 +187,11 @@ export function You({ gita }: { gita: Gita }) {
       <section className="about">
         <Mark size={36} />
         <p className="small muted">
-          Gita · a Sahadeva companion. Sanskrit, transliteration and word meanings from the public-domain{" "}
+          Gita · a Sahadeva companion. Sanskrit and transliteration from the{" "}
           <a href="https://github.com/gita/gita" target="_blank" rel="noreferrer">
             gita/gita
           </a>{" "}
-          dataset. English translations by Swami Sivananda (Clear) and Shri Purohit Swami (Poetic). The Hindi translation, chapter summaries,
+          dataset. English translations by Swami Sivananda (Clear) and Shri Purohit Swami (Poetic). The Hindi translation, word meanings, chapter summaries,
           lessons and simple explanations are written for this app.
         </p>
         <p className="freeline">Free forever · No ads · No account · No tracking</p>

@@ -62,6 +62,7 @@ export function ReadingSettings() {
         options={[["system", "Auto"], ["light", "Light"], ["dark", "Dark"]]}
         onChange={(v) => setSetting("theme", v)}
       />
+      <Toggle label="Sound effects" hint="Soft taps, chimes and a temple bell" on={s.sounds} onChange={(v) => setSetting("sounds", v)} />
     </div>
   );
 }

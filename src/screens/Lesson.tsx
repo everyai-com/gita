@@ -317,7 +317,7 @@ function RememberButton({ lessonId, text }: { lessonId: string; text: string }) 
       className={`chipbtn ${on ? "is-on" : ""}`}
       aria-pressed={on}
       onClick={() => {
-        tap();
+        tap("light", "select");
         toggleInsight(lessonId, text);
       }}
     >
@@ -358,7 +358,7 @@ function Done({
     if (saved.current) return;
     saved.current = true;
     completeLesson({ lessonId, essentialDay, refs });
-    tap("success");
+    tap("success", "complete");
   }, [lessonId, essentialDay, refs]);
 
   const streak = streakOf(s.activity);

@@ -191,8 +191,8 @@ export function You({ gita }: { gita: Gita }) {
           <a href="https://github.com/gita/gita" target="_blank" rel="noreferrer">
             gita/gita
           </a>{" "}
-          dataset. Translations by Swami Sivananda (Clear), Shri Purohit Swami (Poetic) and Swami Tejomayananda (Hindi). Lessons and simple
-          explanations are written for this app.
+          dataset. English translations by Swami Sivananda (Clear) and Shri Purohit Swami (Poetic). The Hindi translation, chapter summaries,
+          lessons and simple explanations are written for this app.
         </p>
         <p className="freeline">Free forever · No ads · No account · No tracking</p>
         <p className="small muted">

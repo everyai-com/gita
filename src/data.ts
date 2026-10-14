@@ -8,7 +8,7 @@ export type Verse = {
   wm: [string, string][]; // word-by-word meanings
   en: string; // Swami Sivananda
   en2: string; // Shri Purohit Swami
-  hi: string; // Swami Tejomayananda
+  hi: string; // Original Hindi, written for this app (content/hi)
 };
 
 export type Chapter = {

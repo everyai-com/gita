@@ -8,7 +8,8 @@ src = sys.argv[1]
 load = lambda n: json.load(open(os.path.join(src, n), encoding="utf-8"))
 verses, translations, chapters = load("verse.json"), load("translation.json"), load("chapters.json")
 
-AUTHORS = {"Swami Sivananda": "en", "Shri Purohit Swami": "en2", "Swami Tejomayananda": "hi"}
+# Hindi is the app's own translation, merged afterwards by scripts/apply-hindi.py.
+AUTHORS = {"Swami Sivananda": "en", "Shri Purohit Swami": "en2"}
 by_verse = {}
 for t in translations:
     key = AUTHORS.get(t["authorName"])
@@ -59,6 +60,14 @@ for v in sorted(verses, key=lambda x: (x["chapter_number"], x["verse_number"])):
         "en2": clean_translation(t.get("en2", "")),
         "hi": clean_text(t.get("hi", "")),
     })
+
+# Sivananda renders 1.21-22 as one sentence and the source repeats it on both verses; split it at the verse boundary.
+EN_FIXES = {
+    (1, 21): 'Arjuna said, "O Krishna, place my chariot in the middle between the two armies,',
+    (1, 22): 'so that I may behold those who stand here, desirous to fight, and know with whom I must fight when the battle is about to commence."',
+}
+for ov in out_verses:
+    ov["en"] = EN_FIXES.get((ov["c"], ov["v"]), ov["en"])
 
 out_chapters = [{
     "n": c["chapter_number"], "name": c["name"], "translit": c["name_transliterated"],

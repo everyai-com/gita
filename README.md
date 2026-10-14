@@ -48,7 +48,8 @@ python3 -I scripts/build-data.py <folder with verse.json, translation.json, chap
 ```
 
 The script also repairs legacy Devanagari typing errors in the source.
-Translations: Swami Sivananda ("Clear"), Shri Purohit Swami ("Poetic"), Swami Tejomayananda (Hindi).
+English translations: Swami Sivananda ("Clear") and Shri Purohit Swami ("Poetic").
+The Hindi translation and chapter summaries are original to this app, in `content/hi/ch-XX.json`, translated from the public-domain Sivananda English. Merge them after `build-data.py` with `python3 -I scripts/apply-hindi.py`.
 Chapter themes, takeaways and the Essentials path are original content in `src/content.ts`.
 
 ## Design

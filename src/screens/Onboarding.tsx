@@ -3,7 +3,7 @@ import { GUIDES, LEVELS, REASONS, topicById } from "../content";
 import type { Gita } from "../data";
 import { Bar, Seal, meaningOf } from "../components";
 import { IconBack, IconBell, IconCheck, IconDiya, Mark, TopicIcon } from "../icons";
-import { scheduleReminder, tap } from "../native";
+import { scheduleReminder, setStatusBarOverArt, tap } from "../native";
 import { go } from "../router";
 import { setProfile, setSetting, update, useStore, type Settings } from "../store";
 
@@ -24,6 +24,10 @@ export function Onboarding({ gita }: { gita: Gita }) {
   };
   const prev = () => setStep(STEPS[Math.max(0, i - 1)]);
   const quizStep = i >= 1 && i <= 4;
+  useEffect(() => {
+    setStatusBarOverArt(step === "welcome");
+    return () => setStatusBarOverArt(false);
+  }, [step]);
 
   return (
     <div className="onboard" key={step}>

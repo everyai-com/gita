@@ -12,7 +12,7 @@ import { Library, Reader, VerseScreen } from "./screens/Read";
 import { Today } from "./screens/Today";
 import { TopicScreen } from "./screens/Topics";
 import { You } from "./screens/You";
-import { scheduleReminder } from "./native";
+import { scheduleReminder, setStatusBarDark } from "./native";
 
 const TABS = [
   { id: "today", label: "Today", Icon: IconToday },
@@ -34,6 +34,11 @@ export function App() {
     if (settings.theme === "system") root.removeAttribute("data-theme");
     else root.setAttribute("data-theme", settings.theme);
     root.dataset.size = String(settings.textSize);
+    const media = window.matchMedia("(prefers-color-scheme: dark)");
+    const sync = () => setStatusBarDark(settings.theme === "dark" || (settings.theme === "system" && media.matches));
+    sync();
+    media.addEventListener("change", sync);
+    return () => media.removeEventListener("change", sync);
   }, [settings.theme, settings.textSize]);
 
   // Keep the daily reminder in sync with the setting (native app only).

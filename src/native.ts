@@ -3,6 +3,7 @@ import { Capacitor } from "@capacitor/core";
 import { Haptics, ImpactStyle, NotificationType } from "@capacitor/haptics";
 import { LocalNotifications } from "@capacitor/local-notifications";
 import { Share } from "@capacitor/share";
+import { StatusBar, Style } from "@capacitor/status-bar";
 
 /** Thin bridge: native iOS features when running in the app, web fallbacks otherwise. */
 export const isNative = () => Capacitor.isNativePlatform();
@@ -74,4 +75,19 @@ export function listenForDeepLinks(open: (path: string) => void) {
     const path = url.replace(/^gita:\/\/?/, "");
     if (path) open(path);
   });
+}
+
+/** Status bar text: light over dark art or dark mode, dark on the paper background. */
+const bar = { art: false, dark: false };
+function applyStatusBar() {
+  if (!isNative()) return;
+  StatusBar.setStyle({ style: bar.art || bar.dark ? Style.Dark : Style.Light }).catch(() => {});
+}
+export function setStatusBarOverArt(art: boolean) {
+  bar.art = art;
+  applyStatusBar();
+}
+export function setStatusBarDark(dark: boolean) {
+  bar.dark = dark;
+  applyStatusBar();
 }

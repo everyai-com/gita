@@ -622,3 +622,5 @@ details.card.more[open] { padding-bottom: 20px; }
 .reasons__item { display: grid; gap: 8px; }
 
 .freeline { font-size: 13px; font-weight: 650; letter-spacing: .04em; color: var(--copper); }
+/* Steps without the progress header (reveal) still need to clear the status bar. */
+.onboard > .onboard__body--form:first-child { padding-top: calc(env(safe-area-inset-top) + 20px); }

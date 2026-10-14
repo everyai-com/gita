@@ -146,7 +146,7 @@ export const IconSparkle = (p: P) => (
 
 /** Sahadeva brand mark, from the asset library. */
 export const Mark = ({ size = 40, className }: P) => (
-  <img className={className} src={`${import.meta.env.BASE_URL}brand/mark.svg`} width={size} height={size} alt="" aria-hidden="true" />
+  <img className={className} src={`${import.meta.env.BASE_URL}brand/gita-mark.svg`} width={size} height={size} alt="" aria-hidden="true" />
 );
 
 /** Topic glyphs. Paths marked (lib) come straight from the Sahadeva asset library. */

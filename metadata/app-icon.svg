@@ -1,26 +1,56 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <!-- Gita app icon: the Gita as a lamp. An open book, its flame rising from the spine. Source for every icon size (scripts/build-icons.sh). -->
   <defs>
-    <radialGradient id="bg" cx="35%" cy="28%" r="85%">
-      <stop offset="0" stop-color="#262340"/>
-      <stop offset="1" stop-color="#0f1119"/>
+    <radialGradient id="bg" cx="50%" cy="42%" r="78%">
+      <stop offset="0" stop-color="#302858"/>
+      <stop offset=".6" stop-color="#1a1633"/>
+      <stop offset="1" stop-color="#0d0b1a"/>
     </radialGradient>
-    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
-      <stop offset="0" stop-color="#f5b545" stop-opacity=".55"/>
-      <stop offset="1" stop-color="#f5b545" stop-opacity="0"/>
+    <radialGradient id="halo" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#ffb347" stop-opacity=".6"/>
+      <stop offset=".4" stop-color="#f08a2c" stop-opacity=".2"/>
+      <stop offset="1" stop-color="#f08a2c" stop-opacity="0"/>
     </radialGradient>
+    <linearGradient id="flame" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffd884"/>
+      <stop offset=".5" stop-color="#f7a23b"/>
+      <stop offset="1" stop-color="#e0662a"/>
+    </linearGradient>
+    <linearGradient id="core" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#ffe6a8"/>
+    </linearGradient>
+    <linearGradient id="page" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fdf4e2"/>
+      <stop offset="1" stop-color="#f1d9ae"/>
+    </linearGradient>
+    <linearGradient id="cover" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e39a3c"/>
+      <stop offset="1" stop-color="#b8661f"/>
+    </linearGradient>
   </defs>
+
   <rect width="1024" height="1024" fill="url(#bg)"/>
-  <g fill="none" stroke="#d6a648" stroke-linecap="round" stroke-linejoin="round">
-    <circle cx="512" cy="512" r="355" stroke-width="16" opacity=".62"/>
-    <circle cx="512" cy="512" r="300" stroke-width="6" opacity=".35" stroke-dasharray="4 22"/>
+  <circle cx="512" cy="500" r="330" fill="url(#halo)"/>
+
+  <!-- flame on the spine -->
+  <g transform="translate(0 72)">
+  <path d="M512 168c-20 64-104 132-104 236a104 104 0 0 0 208 0c0-62-36-104-62-146-6 34-20 52-36 60 8-56 2-100-6-150Z" fill="url(#flame)"/>
+  <path d="M512 330c-10 30-48 62-48 104a48 48 0 0 0 96 0c0-42-34-70-48-104Z" fill="url(#core)"/>
   </g>
-  <circle cx="512" cy="430" r="150" fill="url(#glow)"/>
-  <g fill="none" stroke="#d6a648" stroke-width="30" stroke-linecap="round" stroke-linejoin="round">
-    <!-- flame -->
-    <path d="M512 262c58 70 78 122 78 160a78 78 0 0 1-156 0c0-38 20-90 78-160Z"/>
-    <!-- lamp bowl -->
-    <path d="M252 560h520c-26 124-136 196-260 196s-234-72-260-196Z"/>
-    <path d="M440 800h144"/>
+
+  <!-- cover -->
+  <path d="M512 652c-92-52-206-70-334-58v214c128-10 242 6 334 58 92-52 206-68 334-58V594c-128-12-242 6-334 58Z" fill="url(#cover)"/>
+  <!-- page stack -->
+  <path d="M512 636c-88-50-196-66-316-56v206c120-8 228 6 316 54 88-48 196-62 316-54V580c-120-10-228 6-316 56Z" fill="#e8c88f"/>
+  <!-- pages -->
+  <path d="M512 618c-84-48-186-62-298-54v198c112-6 214 8 298 54Z" fill="url(#page)"/>
+  <path d="M512 618c84-48 186-62 298-54v198c-112-6-214 8-298 54Z" fill="url(#page)"/>
+  <!-- lines of verse -->
+  <g fill="none" stroke="#c58a43" stroke-width="11" stroke-linecap="round" opacity=".55">
+    <path d="M262 616c70-2 136 10 196 36M262 668c70-2 136 10 196 36M262 720c56-2 110 8 160 28"/>
+    <path d="M762 616c-70-2-136 10-196 36M762 668c-70-2-136 10-196 36M762 720c-56-2-110 8-160 28"/>
   </g>
-  <path d="M512 352c24 32 32 54 32 70a32 32 0 0 1-64 0c0-16 8-38 32-70Z" fill="#f5c766"/>
+  <!-- spine -->
+  <path d="M512 618v198" stroke="#b8661f" stroke-width="8" stroke-linecap="round"/>
 </svg>

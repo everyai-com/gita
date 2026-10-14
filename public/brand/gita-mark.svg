@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="150 200 724 724" width="64" height="64" role="img" aria-label="Gita">
+  <!-- In-app Gita mark: the app icon's flame and book on a transparent background. Generated from metadata/app-icon.svg. -->
+  <defs>
+    <linearGradient id="flame" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffd884"/>
+      <stop offset=".5" stop-color="#f7a23b"/>
+      <stop offset="1" stop-color="#e0662a"/>
+    </linearGradient>
+    <linearGradient id="core" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#ffe6a8"/>
+    </linearGradient>
+    <linearGradient id="page" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fdf4e2"/>
+      <stop offset="1" stop-color="#f1d9ae"/>
+    </linearGradient>
+    <linearGradient id="cover" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e39a3c"/>
+      <stop offset="1" stop-color="#b8661f"/>
+    </linearGradient>
+  </defs>
+  <!-- flame on the spine -->
+  <g transform="translate(0 72)">
+  <path d="M512 168c-20 64-104 132-104 236a104 104 0 0 0 208 0c0-62-36-104-62-146-6 34-20 52-36 60 8-56 2-100-6-150Z" fill="url(#flame)"/>
+  <path d="M512 330c-10 30-48 62-48 104a48 48 0 0 0 96 0c0-42-34-70-48-104Z" fill="url(#core)"/>
+  </g>
+
+  <!-- cover -->
+  <path d="M512 652c-92-52-206-70-334-58v214c128-10 242 6 334 58 92-52 206-68 334-58V594c-128-12-242 6-334 58Z" fill="url(#cover)"/>
+  <!-- page stack -->
+  <path d="M512 636c-88-50-196-66-316-56v206c120-8 228 6 316 54 88-48 196-62 316-54V580c-120-10-228 6-316 56Z" fill="#e8c88f" stroke="#c9802f" stroke-width="10" stroke-linejoin="round"/>
+  <!-- pages -->
+  <path d="M512 618c-84-48-186-62-298-54v198c112-6 214 8 298 54Z" fill="url(#page)" stroke="#c9802f" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M512 618c84-48 186-62 298-54v198c-112-6-214 8-298 54Z" fill="url(#page)" stroke="#c9802f" stroke-width="8" stroke-linejoin="round"/>
+  <!-- lines of verse -->
+  <g fill="none" stroke="#c58a43" stroke-width="11" stroke-linecap="round" opacity=".55">
+    <path d="M262 616c70-2 136 10 196 36M262 668c70-2 136 10 196 36M262 720c56-2 110 8 160 28"/>
+    <path d="M762 616c-70-2-136 10-196 36M762 668c-70-2-136 10-196 36M762 720c-56-2-110 8-160 28"/>
+  </g>
+  <!-- spine -->
+  <path d="M512 618v198" stroke="#b8661f" stroke-width="8" stroke-linecap="round"/>
+</svg>

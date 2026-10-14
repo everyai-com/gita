@@ -411,7 +411,7 @@ function Done({
       </div>
       <footer className="lesson__foot">
         {next && (
-          <button className="btn btn--primary btn--full" onClick={() => go("id" in next ? `lesson/${next.id}` : `essentials/${next.day}`)}>
+          <button className="btn btn--primary btn--full" onClick={() => go("id" in next ? `lesson/${next.id}` : `essentials/${next.day}`, { replace: true })}>
             {"id" in next
               ? `Next: ${gita.lesson(next.id)?.title ?? `Lesson ${next.index}`}`
               : `Next: Day ${next.day}, ${next.title}`}

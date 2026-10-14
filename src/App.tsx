@@ -3,7 +3,7 @@ import { useGita } from "./data";
 import { Loading } from "./components";
 import { IconPath, IconRead, IconToday, IconYou, Mark } from "./icons";
 import { go, useRoute } from "./router";
-import { useStore } from "./store";
+import { setSetting, useStore } from "./store";
 import { ChapterScreen, NotFound } from "./screens/Chapter";
 import { LessonScreen } from "./screens/Lesson";
 import { Onboarding } from "./screens/Onboarding";
@@ -12,7 +12,7 @@ import { Library, Reader, VerseScreen } from "./screens/Read";
 import { Today } from "./screens/Today";
 import { TopicScreen } from "./screens/Topics";
 import { You } from "./screens/You";
-import { scheduleReminder, setStatusBarDark } from "./native";
+import { isNative, scheduleReminder, setStatusBarDark } from "./native";
 
 const TABS = [
   { id: "today", label: "Today", Icon: IconToday },
@@ -43,7 +43,10 @@ export function App() {
 
   // Keep the daily reminder in sync with the setting (native app only).
   useEffect(() => {
-    if (onboarded) scheduleReminder(settings.reminder);
+    if (!onboarded) return;
+    scheduleReminder(settings.reminder).then((ok) => {
+      if (!ok && isNative() && settings.reminder !== "off") setSetting("reminder", "off");
+    });
   }, [onboarded, settings.reminder]);
 
   if (error) {

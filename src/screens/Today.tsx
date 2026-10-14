@@ -18,7 +18,7 @@ function greeting() {
 export function nextStep(g: Gita, s: ReturnType<typeof useStore>) {
   const nextEssential = ESSENTIALS.find((d) => !s.essentials.includes(d.day));
   const startedPath = Object.keys(s.lessons).length > 0;
-  if (nextEssential && !startedPath) return { kind: "essential" as const, day: nextEssential };
+  if (nextEssential && !startedPath && s.profile.level !== "deep") return { kind: "essential" as const, day: nextEssential };
   const lesson = allLessons(g).find((l) => !s.lessons[l.id]);
   return lesson ? { kind: "lesson" as const, lesson } : null;
 }

@@ -11,8 +11,10 @@ export function useRoute(): string[] {
   return hash.replace(/^#\/?/, "").split("/").filter(Boolean);
 }
 
-export function go(path: string) {
-  window.location.hash = `/${path.replace(/^\//, "")}`;
+export function go(path: string, opts: { replace?: boolean } = {}) {
+  const hash = `#/${path.replace(/^\//, "")}`;
+  if (opts.replace) window.location.replace(hash);
+  else window.location.hash = hash;
 }
 
 export function back(fallback: string) {

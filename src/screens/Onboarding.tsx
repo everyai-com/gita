@@ -313,7 +313,7 @@ function Sankalpa({ minutes }: { minutes: number }) {
   const timer = useRef<number | null>(null);
 
   const start = () => {
-    if (lit) return;
+    if (lit || timer.current) return;
     tap();
     const t0 = performance.now();
     const loop = () => {
@@ -335,6 +335,7 @@ function Sankalpa({ minutes }: { minutes: number }) {
   };
   const stop = () => {
     if (timer.current) cancelAnimationFrame(timer.current);
+    timer.current = null;
     if (!lit) setHeld(0);
   };
 
@@ -351,7 +352,8 @@ function Sankalpa({ minutes }: { minutes: number }) {
         onPointerDown={start}
         onPointerUp={stop}
         onPointerLeave={stop}
-        onKeyDown={(e) => (e.key === " " || e.key === "Enter") && start()}
+        onPointerCancel={stop}
+        onKeyDown={(e) => !e.repeat && (e.key === " " || e.key === "Enter") && start()}
         onKeyUp={stop}
         aria-label="Press and hold to take your sankalpa"
       >
